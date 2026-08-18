@@ -1,0 +1,21 @@
+asset,source_document,source_kind,figure_or_content,deck_use,status
+bipv/bipv_research_workflow.png,20260707_manuscript.docx,Original embedded DOCX media,Figure 1 four-stage research workflow,Slide 6 WORKFLOW tab,selected
+bipv/bipv_retrofit_configurations.png,20260707_manuscript.docx,Original embedded DOCX media,Figure 5 progressive BIPV configurations,Slides 5 and 6 CONFIGURATIONS tab,selected
+bipv/bipv_tradeoff_frontier.png,20260707_manuscript.docx,Original embedded DOCX media,Figure 12 carbon-economic trade-off frontier,Slide 6 FRONTIER tab,selected
+bipv/bipv_policy_conditional_optima.png,20260707_manuscript.docx,Original embedded DOCX media,Figure 17 policy-conditional optima,Slide 6 default OPTIMA tab,selected
+bipv/bipv_parallel_coordinates_portfolio.png,Previous Jiaying portfolio,Portfolio raster asset,Multi-criteria parallel-coordinate view,Slide 6 PORTFOLIO MATRIX tab,secondary
+cpc/cpc_decoupling_manual.png,Cardiac emergency manuscript,Applicant-replaced high-resolution image,Visible-infrastructure and invisible-operations decoupling,Slide 7 default DECOUPLING tab,selected
+cpc/cpc_infrastructure_manual.png,Cardiac emergency manuscript,Applicant-replaced high-resolution image,Pre-hospital accessibility and regional hubness,Slide 7 INFRASTRUCTURE tab,selected
+cpc/cpc_operations_manual.png,Cardiac emergency manuscript,Applicant-replaced high-resolution image,In-hospital workflow and reperfusion execution,Slide 7 OPERATIONS tab,selected
+cpc/cpc_survival_inequities_manual.png,Cardiac emergency manuscript,Applicant-replaced high-resolution image,Survival inequities across Chinese cities,Slides 5 and 7 INEQUITIES tab,selected
+cpc/cpc_predictive_contributions.png,Cardiac emergency manuscript,High-resolution extracted figure,SHAP-based predictive contribution,Slide 7 PREDICTION tab,selected
+mres/mres_citywide_alignment.svg,RSML final dissertation figure package,Original SVG,Citywide and multi-scale deployment-opportunity alignment,Slide 8 default RESULT tab,selected
+mres/mres_evidence_architecture.svg,RSML final dissertation figure package,Original SVG,Evidence architecture,Slides 5 and 8 EVIDENCE tab,selected
+mres/mres_measurement_pipeline.svg,RSML final dissertation figure package,Original SVG,Building-level PV measurement pipeline,Slide 8 PIPELINE tab,selected
+mres/mres_temporal_identification.svg,RSML final dissertation figure package,Original SVG,Temporal identification and comparability logic,Slide 8 TEMPORAL tab,selected
+mres/mres_longitudinal_evidence.svg,RSML final dissertation figure package,Original SVG,2015-2025 longitudinal evidence,Slide 8 LONGITUDINAL tab,selected
+mres/mres_spatial_scale.svg,RSML final dissertation figure package,Original SVG,Spatial-pattern and scale analysis,Retained in image package,available
+proposal/proposal_event_time_framework.svg,Verified final PhD proposal figure package,Original SVG,Event-time framework,Slide 10 primary figure,selected
+proposal/proposal_event_time_framework.png,Verified final PhD proposal figure package,Original raster fallback,Event-time framework,Static fallback,available
+proposal/proposal_research_framework.svg,Verified final PhD proposal figure package,Original SVG,Cumulative research framework,Slide 12 default STUDY LOGIC tab,selected
+proposal/proposal_research_framework.png,Verified final PhD proposal figure package,Original raster fallback,Cumulative research framework,Slide 5 proposal thumbnail,selected
