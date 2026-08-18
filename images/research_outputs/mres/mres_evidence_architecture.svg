@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1240" viewBox="0 0 2000 1240">
+<defs>
+<style>
+  .bg{fill:#ffffff}
+  .title{font:700 30px Arial,Helvetica,sans-serif;fill:#242424}
+  .layer{font:700 13px Arial,Helvetica,sans-serif;fill:#777;letter-spacing:2.0px}
+  .guide{stroke:#d7d7d7;stroke-width:1.15}
+  .box{fill:#fbfbfb;stroke:#6e6e6e;stroke-width:1.55}
+  .box-soft{fill:#f7f7f7;stroke:#a0a0a0;stroke-width:1.25}
+  .state{fill:#f3f3f3;stroke:#454545;stroke-width:2.0}
+  .aoi{fill:#faf8fb;stroke:#745e7e;stroke-width:1.6}
+  .city{fill:#f7f9fb;stroke:#5f7285;stroke-width:1.6}
+  .mini{fill:#ffffff;stroke:#a4a4a4;stroke-width:1.15}
+  .chip{fill:#fffaf0;stroke:#c1ad78;stroke-width:1.0}
+  .out-left{fill:#faf8fb;stroke:#745e7e;stroke-width:1.65}
+  .out-right{fill:#f7f9fb;stroke:#5f7285;stroke-width:1.65}
+  .main{stroke:#515151;stroke-width:2.0;fill:none;marker-end:url(#arrow)}
+  .branch{stroke:#666;stroke-width:1.7;fill:none;marker-end:url(#arrow)}
+  .audit{stroke:#745e7e;stroke-width:1.5;stroke-dasharray:7 5;fill:none;marker-end:url(#arrowPurple)}
+  .support{stroke:#a2a2a2;stroke-width:1.15;fill:none;stroke-dasharray:4 5}
+  .cube{stroke:#8c8c8c;stroke-width:1.25;fill:none}
+  .cubeStrong{stroke:#657889;stroke-width:1.4;fill:none}
+  .axis{stroke:#7e7e7e;stroke-width:1.2;fill:none;marker-end:url(#arrowSmall)}
+  .head{font:700 18px Arial,Helvetica,sans-serif;fill:#2c2c2c;text-anchor:middle}
+  .headSmall{font:700 16px Arial,Helvetica,sans-serif;fill:#2e2e2e;text-anchor:middle}
+  .sub{font:400 12.5px Arial,Helvetica,sans-serif;fill:#777;text-anchor:middle}
+  .tiny{font:400 11.5px Arial,Helvetica,sans-serif;fill:#777;text-anchor:middle}
+  .badge{font:700 12.5px Arial,Helvetica,sans-serif;fill:#5d5d5d;text-anchor:middle}
+  .chipText{font:600 12.4px Arial,Helvetica,sans-serif;fill:#5f5438;text-anchor:middle}
+  .gateLabel{font:700 14px Arial,Helvetica,sans-serif;fill:#404040;text-anchor:middle}
+  .gateSub{font:400 11.2px Arial,Helvetica,sans-serif;fill:#777;text-anchor:middle}
+  .cubeTitle{font:700 14px Arial,Helvetica,sans-serif;fill:#4d4d4d;text-anchor:middle}
+  .axisLabel{font:500 11px Arial,Helvetica,sans-serif;fill:#6f6f6f}
+  .routeLabel{font:600 11.2px Arial,Helvetica,sans-serif;fill:#6a6a6a;text-anchor:middle}
+  .micro{font:600 10.8px Arial,Helvetica,sans-serif;fill:#696969;text-anchor:middle}
+  .pointLabel{font:600 10.8px Arial,Helvetica,sans-serif;fill:#5f5f5f;text-anchor:middle}
+</style>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3.5" orient="auto"><path d="M0,0 L8,3.5 L0,7 Z" fill="#515151"/></marker>
+<marker id="arrowPurple" markerWidth="10" markerHeight="10" refX="8" refY="3.5" orient="auto"><path d="M0,0 L8,3.5 L0,7 Z" fill="#745e7e"/></marker>
+<marker id="arrowSmall" markerWidth="8" markerHeight="8" refX="6.8" refY="3" orient="auto"><path d="M0,0 L6.8,3 L0,6 Z" fill="#7e7e7e"/></marker>
+</defs>
+
+<rect class="bg" width="2000" height="1240"/>
+<text x="70" y="58" class="title">Evidence architecture for building-level rooftop PV deployment and opportunity</text>
+
+<!-- Layer labels with SHORT guide lines only -->
+<g id="layer_guides">
+  <text x="70" y="108" class="layer">LAYER 1 · DC SOURCE DATA</text>
+  <line x1="70" y1="124" x2="330" y2="124" class="guide"/>
+  <text x="70" y="278" class="layer">LAYER 2 · BUILDING-LEVEL MEASUREMENT</text>
+  <line x1="70" y1="294" x2="405" y2="294" class="guide"/>
+  <text x="70" y="604" class="layer">LAYER 3 · EVIDENCE RESOLUTION</text>
+  <line x1="70" y1="620" x2="345" y2="620" class="guide"/>
+  <text x="70" y="1016" class="layer">LAYER 4 · EMPIRICAL OUTPUTS</text>
+  <line x1="70" y1="1032" x2="330" y2="1032" class="guide"/>
+</g>
+
+<!-- LAYER 1 -->
+<g id="layer1_sources">
+  <rect x="130" y="150" width="450" height="96" rx="16" class="box-soft"/>
+  <text x="355" y="185" class="headSmall">Multi-temporal Aerial Imagery</text>
+  <text x="355" y="214" class="badge">2015 · 2017 · 2019 · 2021 · 2023 · 2025</text>
+  <text x="355" y="235" class="tiny">repeated high-resolution observations</text>
+
+  <rect x="775" y="150" width="450" height="96" rx="16" class="box-soft"/>
+  <text x="1000" y="185" class="headSmall">DC Building Footprints</text>
+  <text x="1000" y="216" class="tiny">building geometry linking all evidence streams</text>
+
+  <rect x="1420" y="150" width="450" height="96" rx="16" class="box-soft"/>
+  <text x="1645" y="185" class="headSmall">Multi-temporal LiDAR / DSM</text>
+  <text x="1645" y="214" class="badge">2018 · 2020 · 2022 · 2024</text>
+  <text x="1645" y="235" class="tiny">roof geometry and change evidence</text>
+</g>
+
+<!-- Source connectors: straight/orthogonal and clear of labels -->
+<g id="source_connectors">
+  <path d="M355,246 L355,335" class="main"/>
+  <path d="M1645,246 L1645,335" class="main"/>
+  <path d="M1000,246 L1000,320" class="main"/>
+  <path d="M910,246 L910,306 L525,306 L525,335" class="branch"/>
+  <path d="M1090,246 L1090,306 L1475,306 L1475,335" class="branch"/>
+</g>
+
+<!-- LAYER 2 -->
+<g id="layer2_measurement">
+  <!-- Left PV box with more complete mini flow -->
+  <rect x="130" y="335" width="450" height="132" rx="17" class="box"/>
+  <text x="355" y="367" class="head">
+    <tspan x="355">Building-linked Image-visible</tspan><tspan x="355" dy="23">PV Evidence</tspan>
+  </text>
+  <text x="355" y="420" class="sub">manual reference + U-Net (ResNet-18)</text>
+  <!-- micro pipeline -->
+  <rect x="175" y="435" width="74" height="20" rx="6" class="mini"/>
+  <text x="212" y="449" class="micro">image</text>
+  <path d="M249,445 L282,445" class="branch"/>
+  <rect x="286" y="435" width="74" height="20" rx="6" class="mini"/>
+  <text x="323" y="449" class="micro">PV score</text>
+  <path d="M360,445 L393,445" class="branch"/>
+  <rect x="397" y="435" width="74" height="20" rx="6" class="mini"/>
+  <text x="434" y="449" class="micro">roof mask</text>
+  <path d="M471,445 L504,445" class="branch"/>
+  <rect x="508" y="435" width="50" height="20" rx="6" class="mini"/>
+  <text x="533" y="449" class="micro">state</text>
+
+  <!-- Centre state box + compact roof/PV icon -->
+  <rect x="760" y="320" width="480" height="155" rx="19" class="state"/>
+  <text x="1000" y="354" class="head">Building-Level PV–Opportunity State</text>
+  <path d="M920,423 L920,390 L1000,352 L1080,390 L1080,423 Z" fill="#fff" stroke="#777" stroke-width="1.25"/>
+  <path d="M948,386 L988,368 L1020,384 L979,402 Z" fill="#d5d5d5" stroke="#8d8d8d" stroke-width="1.0"/>
+  <path d="M1020,382 L1053,367 L1073,378 L1038,394 Z" fill="#e5e5e5" stroke="#8d8d8d" stroke-width="1.0"/>
+  <text x="1000" y="451" class="sub">same building · PV endpoint + rooftop opportunity</text>
+
+  <!-- Right opportunity box -->
+  <rect x="1420" y="335" width="450" height="132" rx="17" class="box"/>
+  <text x="1645" y="370" class="head">
+    <tspan x="1645">LiDAR-informed Rooftop</tspan><tspan x="1645" dy="23">Opportunity</tspan>
+  </text>
+  <text x="1645" y="422" class="sub">M0 / M1 benchmarks · M2 usable roof area</text>
+  <text x="1645" y="444" class="tiny">operational denominator, not engineering potential</text>
+
+  <path d="M580,400 L760,400" class="main"/>
+  <path d="M1420,400 L1240,400" class="main"/>
+</g>
+
+<!-- Compact validation chips -->
+<g id="validation_strip">
+  <text x="1000" y="505" class="layer" text-anchor="middle">CROSS-CUTTING VALIDATION &amp; SENSITIVITY</text>
+  <rect x="165" y="524" width="335" height="42" rx="11" class="chip"/>
+  <text x="332" y="551" class="chipText">Blind validation · n=78</text>
+  <rect x="525" y="524" width="315" height="42" rx="11" class="chip"/>
+  <text x="682" y="551" class="chipText">Complex roofs · n=37</text>
+  <rect x="1160" y="524" width="300" height="42" rx="11" class="chip"/>
+  <text x="1310" y="551" class="chipText">Opportunity · M0 / M1 / M2</text>
+  <rect x="1485" y="524" width="350" height="42" rx="11" class="chip"/>
+  <text x="1660" y="551" class="chipText">Scale · tract / cluster / ward</text>
+</g>
+
+<!-- Central state DIRECTLY branches to AOI60 and Citywide. Cube is explanatory, not a processing gate. -->
+<g id="direct_resolution_branches">
+  <path d="M900,475 L900,590 L345,590 L345,665" class="audit"/>
+  <text x="610" y="582" class="routeLabel">reference / measurement audit</text>
+
+  <path d="M1100,475 L1100,590 L1655,590 L1655,665" class="main"/>
+  <text x="1390" y="582" class="routeLabel">same building framework · broader coverage</text>
+</g>
+
+<!-- LAYER 3 AOI60 -->
+<g id="aoi60_branch">
+  <rect x="110" y="665" width="470" height="96" rx="16" class="aoi"/>
+  <text x="345" y="700" class="head">AOI60 Reference Corpus</text>
+  <text x="345" y="728" class="badge">60 AOIs · 6,191 buildings</text>
+  <text x="345" y="748" class="tiny">deep manual audit + repeated observations</text>
+
+  <!-- Explicit arrows from AOI60 to BOTH temporal evidence subnodes -->
+  <path d="M275,761 L275,805 L220,805 L220,823" class="branch"/>
+  <path d="M415,761 L415,805 L465,805 L465,823" class="branch"/>
+
+  <rect x="115" y="823" width="210" height="58" rx="12" class="mini"/>
+  <text x="220" y="847" class="headSmall">Repeated PV states</text>
+  <text x="220" y="867" class="tiny">2015–2025 imagery</text>
+
+  <rect x="355" y="823" width="220" height="58" rx="12" class="mini"/>
+  <text x="465" y="847" class="headSmall">Roof-change evidence</text>
+  <text x="465" y="867" class="tiny">2018–2024 nDSM</text>
+
+  <polygon points="345,915 368,938 345,961 322,938" fill="#fff" stroke="#745e7e" stroke-width="1.6"/>
+  <text x="345" y="990" class="gateLabel">Historical comparability</text>
+  <text x="345" y="1008" class="gateSub">current opportunity applicable through time?</text>
+
+  <path d="M220,881 L220,903 L332,903 L332,922" class="branch"/>
+  <path d="M465,881 L465,903 L358,903 L358,922" class="branch"/>
+</g>
+
+<!-- LAYER 3 CITYWIDE -->
+<g id="citywide_branch">
+  <rect x="1420" y="665" width="470" height="96" rx="16" class="city"/>
+  <text x="1655" y="700" class="head">Citywide 2025 Assessment</text>
+  <text x="1655" y="728" class="badge">2,469 grids · 164,076 candidate buildings</text>
+  <text x="1655" y="748" class="tiny">160,959 joint-eligible · current endpoint only</text>
+
+  <polygon points="1655,915 1678,938 1655,961 1632,938" fill="#fff" stroke="#5f7285" stroke-width="1.6"/>
+  <text x="1655" y="990" class="gateLabel">Aggregate validation</text>
+  <text x="1655" y="1008" class="gateSub">validated for aggregate spatial interpretation</text>
+  <path d="M1655,761 L1655,915" class="branch"/>
+</g>
+
+<!-- Evidence cube: MOVED DOWN, not in the causal processing path -->
+<g id="evidence_cube">
+  <text x="1000" y="720" class="cubeTitle">Building-centred Evidence Resolution</text>
+  <path d="M885,785 L1035,785 L1035,900 L885,900 Z" class="cubeStrong"/>
+  <path d="M935,748 L1085,748 L1085,863 L935,863 Z" class="cube"/>
+  <path d="M885,785 L935,748 M1035,785 L1085,748 M1035,900 L1085,863 M885,900 L935,863" class="cube"/>
+  <!-- Straight axes only -->
+  <path d="M885,900 L1160,900" class="axis"/>
+  <text x="1167" y="905" class="axisLabel">Spatial coverage</text>
+  <path d="M885,900 L885,720" class="axis"/>
+  <text x="798" y="726" class="axisLabel">Temporal depth</text>
+  <path d="M885,900 L812,956" class="axis"/>
+  <text x="725" y="971" class="axisLabel">Audit depth</text>
+
+  <!-- Combine roof/PV icon with the two points -->
+  <!-- AOI60 point -->
+  <g id="cube_point_aoi">
+    <circle cx="925" cy="770" r="7" fill="#745e7e"/>
+    <path d="M910,802 L910,790 L925,781 L940,790 L940,802 Z" fill="#fff" stroke="#745e7e" stroke-width="1.0"/>
+    <path d="M916,791 L925,787 L932,791 L923,795 Z" fill="#d9d1de" stroke="#745e7e" stroke-width="0.8"/>
+    <text x="925" y="818" class="pointLabel">AOI60</text>
+  </g>
+  <!-- Citywide point -->
+  <g id="cube_point_city">
+    <circle cx="1060" cy="878" r="7" fill="#5f7285"/>
+    <path d="M1045,855 L1045,843 L1060,834 L1075,843 L1075,855 Z" fill="#fff" stroke="#5f7285" stroke-width="1.0"/>
+    <path d="M1051,844 L1060,840 L1067,844 L1058,848 Z" fill="#d7dfe5" stroke="#5f7285" stroke-width="0.8"/>
+    <text x="1060" y="926" class="pointLabel">Citywide 2025</text>
+  </g>
+
+  <!-- Direct straight conceptual links; no dog-leg arrows -->
+  <line x1="885" y1="830" x2="650" y2="830" class="support"/>
+  <line x1="1085" y1="830" x2="1350" y2="830" class="support"/>
+  <text x="770" y="820" class="routeLabel">deeper + repeated</text>
+  <text x="1220" y="820" class="routeLabel">broader + current</text>
+</g>
+
+<!-- LAYER 4 outputs -->
+<g id="layer4_outputs">
+  <rect x="95" y="1050" width="560" height="110" rx="16" class="out-left"/>
+  <text x="375" y="1086" class="head">
+    <tspan x="375">Opportunity-Adjusted Longitudinal</tspan><tspan x="375" dy="24">Deployment Trajectories</tspan>
+  </text>
+  <text x="375" y="1139" class="sub">first-visible intervals + qualified current opportunity</text>
+  <path d="M345,961 L345,1050" class="branch"/>
+
+  <rect x="1345" y="1050" width="560" height="110" rx="16" class="out-right"/>
+  <text x="1625" y="1086" class="head">
+    <tspan x="1625">Citywide Deployment–Opportunity</tspan><tspan x="1625" dy="24">Patterns</tspan>
+  </text>
+  <text x="1625" y="1139" class="sub">continuous alignment · tract heterogeneity · scale sensitivity</text>
+  <path d="M1655,961 L1655,1050" class="branch"/>
+</g>
+
+<!-- Reading key -->
+<g id="reading_key">
+  <line x1="790" y1="1195" x2="850" y2="1195" class="branch"/>
+  <text x="862" y="1200" class="tiny" text-anchor="start">direct analytical flow</text>
+  <line x1="1040" y1="1195" x2="1100" y2="1195" class="audit"/>
+  <text x="1112" y="1200" class="tiny" text-anchor="start">reference / audit flow</text>
+</g>
+</svg>

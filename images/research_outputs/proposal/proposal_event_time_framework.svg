@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="989.042059pt" height="708.361922pt" viewBox="0 0 989.042059 708.361922" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-22T16:42:46.416324</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 708.361922 
+L 989.042059 708.361922 
+L 989.042059 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 170.155202 121.265922 
+L 687.405156 121.265922 
+L 687.405156 60.737922 
+L 170.155202 60.737922 
+z
+" clip-path="url(#p3ee3ea27b8)" style="fill: #f7f9fa"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 170.155202 226.801922 
+L 687.405156 226.801922 
+L 687.405156 121.265922 
+L 170.155202 121.265922 
+z
+" clip-path="url(#p3ee3ea27b8)" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 170.155202 351.737922 
+L 687.405156 351.737922 
+L 687.405156 226.801922 
+L 170.155202 226.801922 
+z
+" clip-path="url(#p3ee3ea27b8)" style="fill: #f7f9fa"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 170.155202 679.985922 
+L 687.405156 679.985922 
+L 687.405156 351.737922 
+L 170.155202 351.737922 
+z
+" clip-path="url(#p3ee3ea27b8)" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 170.155202 121.265922 
+L 687.405156 121.265922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #d9dee3; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 170.155202 226.801922 
+L 687.405156 226.801922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #d9dee3; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 170.155202 351.737922 
+L 687.405156 351.737922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #d9dee3; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 170.155202 679.985922 
+L 687.405156 679.985922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #d9dee3; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 261.793974 663.301922 
+L 261.793974 55.305922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #5b91b5; stroke-opacity: 0.62"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 434.889431 663.301922 
+L 434.889431 55.305922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #4d9b8d; stroke-opacity: 0.62"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 610.021305 663.301922 
+L 610.021305 55.305922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #c9904d; stroke-opacity: 0.62"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 96.844185 383.941922 
+L 226.496076 383.941922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 1.44,2.16; stroke-dashoffset: 0; stroke: #5b91b5; stroke-opacity: 0.48; stroke-width: 0.72"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 96.844185 438.261922 
+L 392.803476 438.261922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 1.44,2.16; stroke-dashoffset: 0; stroke: #4d9b8d; stroke-opacity: 0.48; stroke-width: 0.72"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 96.844185 533.321922 
+L 392.803476 533.321922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 1.44,2.16; stroke-dashoffset: 0; stroke: #4d9b8d; stroke-opacity: 0.48; stroke-width: 0.72"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 96.844185 585.701922 
+L 400.949145 585.701922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 1.44,2.16; stroke-dashoffset: 0; stroke: #c9904d; stroke-opacity: 0.48; stroke-width: 0.72"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 226.496076 383.941922 
+L 470.187328 383.941922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 3.9,3.9; stroke-dashoffset: 0; stroke: #5b91b5; stroke-width: 1.3"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 392.803476 438.261922 
+L 476.975385 438.261922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 3.9,3.9; stroke-dashoffset: 0; stroke: #4d9b8d; stroke-width: 1.3"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 392.803476 533.321922 
+L 476.975385 533.321922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 3.9,3.9; stroke-dashoffset: 0; stroke: #4d9b8d; stroke-width: 1.3"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 400.949145 585.701922 
+L 645.319202 585.701922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 3.9,3.9; stroke-dashoffset: 0; stroke: #c9904d; stroke-width: 1.3"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 698.266048 679.985922 
+L 698.266048 16.505922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #aeb8be; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #66747d" x="178.300871" y="72.570484" transform="rotate(-0 178.300871 72.570484)">PHASE 0  BASELINE</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #66747d" x="178.300871" y="133.098484" transform="rotate(-0 178.300871 133.098484)">PHASE 1  BUILD-UP</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #66747d" x="178.300871" y="238.634484" transform="rotate(-0 178.300871 238.634484)">PHASE 2  PERSISTENCE</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #66747d" x="178.300871" y="363.570484" transform="rotate(-0 178.300871 363.570484)">PHASE 3  RECOVERY WINDOW</text>
+   </g>
+   <g id="line2d_17">
+    <path d="M 226.496076 387.821922 
+L 226.496076 380.061922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #5b91b5; stroke-width: 1.15; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 470.187328 387.821922 
+L 470.187328 380.061922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #5b91b5; stroke-width: 1.15; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 392.803476 442.141922 
+L 392.803476 434.381922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #4d9b8d; stroke-width: 1.15; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 476.975385 442.141922 
+L 476.975385 434.381922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #4d9b8d; stroke-width: 1.15; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 392.803476 537.201922 
+L 392.803476 529.441922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #4d9b8d; stroke-width: 1.15; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 476.975385 537.201922 
+L 476.975385 529.441922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #4d9b8d; stroke-width: 1.15; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 400.949145 589.581922 
+L 400.949145 581.821922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #c9904d; stroke-width: 1.15; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 645.319202 589.581922 
+L 645.319202 581.821922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #c9904d; stroke-width: 1.15; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 83.268071 438.261922 
+L 83.268071 383.941922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #5b91b5; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 83.268071 438.261922 
+L 96.844185 438.261922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #5b91b5; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 83.268071 383.941922 
+L 96.844185 383.941922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #5b91b5; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 83.268071 533.321922 
+L 83.268071 438.261922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #4d9b8d; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 83.268071 533.321922 
+L 96.844185 533.321922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #4d9b8d; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 83.268071 438.261922 
+L 96.844185 438.261922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #4d9b8d; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_31">
+    <path d="M 83.268071 585.701922 
+L 83.268071 533.321922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #c9904d; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 83.268071 585.701922 
+L 96.844185 585.701922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #c9904d; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 83.268071 533.321922 
+L 96.844185 533.321922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #c9904d; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 755.285728 676.105922 
+L 755.285728 65.781922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #397fa3; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 746.461254 65.781922 
+L 764.110202 65.781922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #397fa3; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 746.461254 676.105922 
+L 764.110202 676.105922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #397fa3; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 825.202716 676.105922 
+L 825.202716 65.781922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 1.8,2.7; stroke-dashoffset: 0; stroke: #aeb8be; stroke-width: 0.9"/>
+   </g>
+   <g id="line2d_38">
+    <path d="M 816.378242 65.781922 
+L 834.027191 65.781922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #aeb8be; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_39">
+    <path d="M 816.378242 676.105922 
+L 834.027191 676.105922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #aeb8be; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_40">
+    <path d="M 840.136442 646.617922 
+L 840.136442 383.941922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 9.6,4.8; stroke-dashoffset: 0; stroke: #397fa3; stroke-width: 1.6"/>
+   </g>
+   <g id="line2d_41">
+    <path d="M 831.311968 383.941922 
+L 848.960916 383.941922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #397fa3; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_42">
+    <path d="M 831.311968 646.617922 
+L 848.960916 646.617922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #397fa3; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_43">
+    <path d="M 912.768654 653.601922 
+L 912.768654 477.061922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke-dasharray: 3.2,3.2,9.6,3.2; stroke-dashoffset: 0; stroke: #397fa3; stroke-width: 1.6"/>
+   </g>
+   <g id="line2d_44">
+    <path d="M 903.944179 477.061922 
+L 921.593128 477.061922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #397fa3; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_45">
+    <path d="M 903.944179 653.601922 
+L 921.593128 653.601922 
+" clip-path="url(#p3ee3ea27b8)" style="fill: none; stroke: #397fa3; stroke-width: 1.25; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9.8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #66747d" transform="translate(57.398077 13.19532)">TRANSITION</text>
+    <text style="font-weight: 700; font-size: 9.8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #66747d" transform="translate(60.019577 21.793212)">INTERVALS</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10.8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #66747d" x="430.137791" y="17.753484" transform="rotate(-0 430.137791 17.753484)">CROSS-SYSTEM EVENT SEQUENCE</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #66747d" x="834.027191" y="17.546109" transform="rotate(-0 834.027191 17.546109)">WRF EVIDENCE MODES</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 162.009534 57.301876 
+Q 162.009534 364.540439 162.009534 670.660969 
+" style="fill: none; stroke: #66747d; stroke-linecap: round"/>
+    <path d="M 164.009534 666.660969 
+L 162.009534 670.660969 
+L 160.009534 666.660969 
+z
+" style="fill: #66747d; stroke: #66747d; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #66747d" transform="translate(164.135127 53.523844) rotate(-90)">EVENT TIME</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 266.793816 77.421922 
+Q 348.342094 77.421922 428.716436 77.421922 
+" style="fill: none; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 424.716436 75.421922 
+L 428.716436 77.421922 
+L 424.716436 79.421922 
+z
+" style="fill: #263238; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 439.889305 95.657922 
+Q 522.454051 95.657922 603.844861 95.657922 
+" style="fill: none; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 599.844861 93.657922 
+L 603.844861 95.657922 
+L 599.844861 97.657922 
+z
+" style="fill: #263238; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 266.793816 140.665922 
+Q 348.342094 140.665922 428.716436 140.665922 
+" style="fill: none; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 424.716436 138.665922 
+L 428.716436 140.665922 
+L 424.716436 142.665922 
+z
+" style="fill: #263238; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 266.793816 155.409922 
+Q 348.342094 155.409922 428.716436 155.409922 
+" style="fill: none; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 424.716436 153.409922 
+L 428.716436 155.409922 
+L 424.716436 157.409922 
+z
+" style="fill: #263238; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 439.889305 212.833922 
+Q 522.454051 212.833922 603.844861 212.833922 
+" style="fill: none; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 599.844861 210.833922 
+L 603.844861 212.833922 
+L 599.844861 214.833922 
+z
+" style="fill: #263238; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 266.793816 241.545922 
+Q 348.342094 241.545922 428.716436 241.545922 
+" style="fill: none; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 424.716436 239.545922 
+L 428.716436 241.545922 
+L 424.716436 243.545922 
+z
+" style="fill: #263238; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 439.889305 278.017922 
+Q 522.454051 278.017922 603.844861 278.017922 
+" style="fill: none; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 599.844861 276.017922 
+L 603.844861 278.017922 
+L 599.844861 280.017922 
+z
+" style="fill: #263238; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 266.793816 402.177922 
+Q 348.342094 402.177922 428.716436 402.177922 
+" style="fill: none; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 424.716436 400.177922 
+L 428.716436 402.177922 
+L 424.716436 404.177922 
+z
+" style="fill: #263238; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 439.889305 554.273922 
+Q 522.454051 554.273922 603.844861 554.273922 
+" style="fill: none; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 599.844861 552.273922 
+L 603.844861 554.273922 
+L 599.844861 556.273922 
+z
+" style="fill: #263238; stroke: #263238; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 169.815799 662.137922 
+L 424.367942 662.137922 
+Q 426.743762 662.137922 426.743762 660.779922 
+L 426.743762 609.175922 
+Q 426.743762 607.817922 424.367942 607.817922 
+L 169.815799 607.817922 
+Q 167.439979 607.817922 167.439979 609.175922 
+L 167.439979 660.779922 
+Q 167.439979 662.137922 169.815799 662.137922 
+z
+" clip-path="url(#p3ee3ea27b8)" style="fill: #ffffff; stroke: #263238; stroke-width: 0.95; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 433.192416 662.137922 
+L 687.744559 662.137922 
+Q 690.120379 662.137922 690.120379 660.779922 
+L 690.120379 609.175922 
+Q 690.120379 607.817922 687.744559 607.817922 
+L 433.192416 607.817922 
+Q 430.816596 607.817922 430.816596 609.175922 
+L 430.816596 660.779922 
+Q 430.816596 662.137922 433.192416 662.137922 
+z
+" clip-path="url(#p3ee3ea27b8)" style="fill: #ffffff; stroke: #263238; stroke-width: 0.95; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #397fa3" x="171.512814" y="672.587406" transform="rotate(-0 171.512814 672.587406)">Recovery-window end</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'IBM Plex Mono', 'DejaVu Sans Mono', 'Consolas', monospace; text-anchor: end; fill: #5b91b5" x="77.837625" y="403.968141" transform="rotate(-0 77.837625 403.968141)">Δ1</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.7px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #263238" x="77.837625" y="416.584492" transform="rotate(-0 77.837625 416.584492)">tL − tR</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.2px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #66747d" x="77.837625" y="425.337047" transform="rotate(-0 77.837625 425.337047)">local response lag</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'IBM Plex Mono', 'DejaVu Sans Mono', 'Consolas', monospace; text-anchor: end; fill: #4d9b8d" x="77.837625" y="478.658141" transform="rotate(-0 77.837625 478.658141)">Δ2</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.7px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #263238" x="77.837625" y="491.274492" transform="rotate(-0 77.837625 491.274492)">tC − tL</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.2px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #66747d" x="77.837625" y="500.027047" transform="rotate(-0 77.837625 500.027047)">local decay duration</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'IBM Plex Mono', 'DejaVu Sans Mono', 'Consolas', monospace; text-anchor: end; fill: #c9904d" x="77.837625" y="552.378141" transform="rotate(-0 77.837625 552.378141)">Δ3</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.7px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #263238" x="77.837625" y="564.994492" transform="rotate(-0 77.837625 564.994492)">tF − tC</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.2px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #66747d" x="77.837625" y="573.790922" transform="rotate(-0 77.837625 573.790922)">signed functional offset</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #397fa3" x="755.285728" y="52.335672" transform="rotate(-0 755.285728 52.335672)">HINDCAST</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #397fa3" x="832.669579" y="52.335672" transform="rotate(-0 832.669579 52.335672)">COUNTERFACTUAL</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #397fa3" transform="translate(890.768654 48.826328)">FORECAST</text>
+    <text style="font-weight: 700; font-size: 8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #397fa3" transform="translate(896.908654 55.845016)">REPLAY</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #263238" transform="translate(773.087324 421.133875) rotate(-90)">complete event + antecedent</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #263238" transform="translate(811.433964 400.424266) rotate(-90)">full-event context</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #263238" transform="translate(857.938039 563.398) rotate(-90)">recovery-phase comparison</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #263238" transform="translate(930.57025 616.699187) rotate(-90)">issue time → forecast horizon</text>
+   </g>
+   <g id="patch_18">
+    <path d="M 188.482956 54.335922 
+L 335.104991 54.335922 
+Q 337.480811 54.335922 337.480811 52.977922 
+L 337.480811 28.145922 
+Q 337.480811 26.787922 335.104991 26.787922 
+L 188.482956 26.787922 
+Q 186.107136 26.787922 186.107136 28.145922 
+L 186.107136 52.977922 
+Q 186.107136 54.335922 188.482956 54.335922 
+z
+" clip-path="url(#p3ee3ea27b8)" style="fill: #eaf3f8; stroke: #5b91b5; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 352.075134 54.335922 
+L 517.703728 54.335922 
+Q 520.079548 54.335922 520.079548 52.977922 
+L 520.079548 28.145922 
+Q 520.079548 26.787922 517.703728 26.787922 
+L 352.075134 26.787922 
+Q 349.699314 26.787922 349.699314 28.145922 
+L 349.699314 52.977922 
+Q 349.699314 54.335922 352.075134 54.335922 
+z
+" clip-path="url(#p3ee3ea27b8)" style="fill: #e9f4f1; stroke: #4d9b8d; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 534.673871 54.335922 
+L 685.368739 54.335922 
+Q 687.744559 54.335922 687.744559 52.977922 
+L 687.744559 28.145922 
+Q 687.744559 26.787922 685.368739 26.787922 
+L 534.673871 26.787922 
+Q 532.298051 26.787922 532.298051 28.145922 
+L 532.298051 52.977922 
+Q 532.298051 54.335922 534.673871 54.335922 
+z
+" clip-path="url(#p3ee3ea27b8)" style="fill: #faf1e5; stroke: #c9904d; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8.1px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #263238" x="348.341702" y="70.285125" transform="rotate(-0 348.341702 70.285125)">background atmospheric forcing</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.1px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #263238" x="522.455368" y="88.616047" transform="rotate(-0 522.455368 88.616047)">baseline outdoor thermal demand</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.1px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #263238" x="348.341702" y="133.529125" transform="rotate(-0 348.341702 133.529125)">regional forcing intensifies</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.6px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #263238" x="348.341702" y="148.378359" transform="rotate(-0 348.341702 148.378359)">advection · sea-breeze transition · rainfall · boundary-layer mixing</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.1px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #263238" x="522.455368" y="205.792047" transform="rotate(-0 522.455368 205.792047)">outdoor thermal demand rises</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 8.1px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #263238" x="348.341702" y="248.377125" transform="rotate(-0 348.341702 248.377125)">regional forcing remains elevated</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8.1px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #263238" x="522.455368" y="270.976047" transform="rotate(-0 522.455368 270.976047)">elevated thermal demand continues</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #263238" x="348.341702" y="395.104266" transform="rotate(-0 348.341702 395.104266)">transport and boundary-layer conditions change</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.7px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #263238" x="522.455368" y="547.311547" transform="rotate(-0 522.455368 547.311547)">outdoor thermal demand declines or persists</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #66747d" x="297.091871" y="619.927828" transform="rotate(-0 297.091871 619.927828)">ENVIRONMENTAL RECOVERY OUTCOMES</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #263238" x="183.731316" y="631.484789" transform="rotate(-0 183.731316 631.484789)">• Sustained clearance at tC</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #263238" x="183.731316" y="642.350547" transform="rotate(-0 183.731316 642.350547)">• Rebound after temporary clearance</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #263238" x="183.731316" y="653.214547" transform="rotate(-0 183.731316 653.214547)">• Carry-over; tC right-censored</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #66747d" x="560.468488" y="619.927828" transform="rotate(-0 560.468488 619.927828)">THERMAL-PROTECTION OUTCOMES</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #263238" x="447.107934" y="631.486547" transform="rotate(-0 447.107934 631.486547)">• Recovery at tF after exceedance</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #263238" x="447.107934" y="642.304844" transform="rotate(-0 447.107934 642.304844)">• Unresolved exceedance; tF right-censored</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #263238" x="447.107934" y="653.212789" transform="rotate(-0 447.107934 653.212789)">• No exceedance; no tF defined</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 8.15px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #263238" x="261.793974" y="42.670734" transform="rotate(-0 261.793974 42.670734)">Regional atmospheric forcing</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 8.15px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #263238" transform="translate(388.706946 38.80773)">Local urban humid-heat</text>
+    <text style="font-weight: 700; font-size: 8.15px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #263238" transform="translate(425.377489 46.541379)">state</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 8.15px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #263238" transform="translate(575.849883 38.751762)">Building-portfolio</text>
+    <text style="font-weight: 700; font-size: 8.15px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; fill: #263238" transform="translate(548.209285 46.696675)">thermal-protection performance</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m4436801cef" d="M 0 2.738613 
+C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
+C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
+C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
+C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
+C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
+C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
+C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
+C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+z
+" style="stroke: #ffffff"/>
+    </defs>
+    <g clip-path="url(#p3ee3ea27b8)">
+     <use xlink:href="#m4436801cef" x="434.889431" y="172.481922" style="fill: #4d9b8d; stroke: #ffffff"/>
+    </g>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.7px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #263238" x="443.713905" y="174.472492" transform="rotate(-0 443.713905 174.472492)">heat and moisture accumulate</text>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m682ea92d6c" d="M 0 2.738613 
+C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
+C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
+C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
+C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
+C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
+C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
+C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
+C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+z
+" style="stroke: #4d9b8d; stroke-width: 1.25"/>
+    </defs>
+    <g clip-path="url(#p3ee3ea27b8)">
+     <use xlink:href="#m682ea92d6c" x="434.889431" y="188.777922" style="fill: #ffffff; stroke: #4d9b8d; stroke-width: 1.25"/>
+    </g>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.7px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #263238" x="426.064956" y="190.768492" transform="rotate(-0 426.064956 190.768492)">environmental threshold exceeded</text>
+   </g>
+   <g id="PathCollection_3">
+    <defs>
+     <path id="m819abbe089" d="M 0 2.738613 
+C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
+C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
+C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
+C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
+C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
+C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
+C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
+C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+z
+" style="stroke: #ffffff"/>
+    </defs>
+    <g clip-path="url(#p3ee3ea27b8)">
+     <use xlink:href="#m819abbe089" x="610.021305" y="223.697922" style="fill: #c9904d; stroke: #ffffff"/>
+    </g>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.6px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #263238" x="601.196831" y="225.662641" transform="rotate(-0 601.196831 225.662641)">passive + active protection respond</text>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p3ee3ea27b8)">
+     <use xlink:href="#m4436801cef" x="434.889431" y="259.781922" style="fill: #4d9b8d; stroke: #ffffff"/>
+    </g>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.7px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #263238" x="443.713905" y="261.772492" transform="rotate(-0 443.713905 261.772492)">local humid heat persists</text>
+   </g>
+   <g id="PathCollection_5">
+    <defs>
+     <path id="m03653ae7e5" d="M 0 2.738613 
+C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
+C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
+C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
+C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
+C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
+C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
+C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
+C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+z
+" style="stroke: #c9904d; stroke-width: 1.25"/>
+    </defs>
+    <g clip-path="url(#p3ee3ea27b8)">
+     <use xlink:href="#m03653ae7e5" x="610.021305" y="297.417922" style="fill: #ffffff; stroke: #c9904d; stroke-width: 1.25"/>
+    </g>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 7.4px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #263238" x="601.196831" y="299.376031" transform="rotate(-0 601.196831 299.376031)">protection threshold exceeded, if observed</text>
+   </g>
+   <g id="PathCollection_6">
+    <defs>
+     <path id="m1e9a81b413" d="M 0 2.915476 
+C 0.773193 2.915476 1.514823 2.608283 2.061553 2.061553 
+C 2.608283 1.514823 2.915476 0.773193 2.915476 0 
+C 2.915476 -0.773193 2.608283 -1.514823 2.061553 -2.061553 
+C 1.514823 -2.608283 0.773193 -2.915476 0 -2.915476 
+C -0.773193 -2.915476 -1.514823 -2.608283 -2.061553 -2.061553 
+C -2.608283 -1.514823 -2.915476 -0.773193 -2.915476 0 
+C -2.915476 0.773193 -2.608283 1.514823 -2.061553 2.061553 
+C -1.514823 2.608283 -0.773193 2.915476 0 2.915476 
+z
+" style="stroke: #5b91b5; stroke-width: 1.35"/>
+    </defs>
+    <g clip-path="url(#p3ee3ea27b8)">
+     <use xlink:href="#m1e9a81b413" x="261.793974" y="383.941922" style="fill: #ffffff; stroke: #5b91b5; stroke-width: 1.35"/>
+    </g>
+   </g>
+   <g id="text_51">
+    <g id="patch_21">
+     <path d="M 279.029116 381.131922 
+L 417.654288 381.131922 
+Q 417.978288 381.131922 417.978288 380.807922 
+L 417.978288 370.938578 
+Q 417.978288 370.614578 417.654288 370.614578 
+L 279.029116 370.614578 
+Q 278.705116 370.614578 278.705116 370.938578 
+L 278.705116 380.807922 
+Q 278.705116 381.131922 279.029116 381.131922 
+z
+" style="fill: #ffffff; opacity: 0.96; stroke: #5b91b5; stroke-width: 0.55; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #5b91b5" x="348.341702" y="377.969125" transform="rotate(-0 348.341702 377.969125)">tR  Regional forcing begins to relax</text>
+   </g>
+   <g id="PathCollection_7">
+    <defs>
+     <path id="mb731850e3c" d="M 0 2.915476 
+C 0.773193 2.915476 1.514823 2.608283 2.061553 2.061553 
+C 2.608283 1.514823 2.915476 0.773193 2.915476 0 
+C 2.915476 -0.773193 2.608283 -1.514823 2.061553 -2.061553 
+C 1.514823 -2.608283 0.773193 -2.915476 0 -2.915476 
+C -0.773193 -2.915476 -1.514823 -2.608283 -2.061553 -2.061553 
+C -2.608283 -1.514823 -2.915476 -0.773193 -2.915476 0 
+C -2.915476 0.773193 -2.608283 1.514823 -2.061553 2.061553 
+C -1.514823 2.608283 -0.773193 2.915476 0 2.915476 
+z
+" style="stroke: #4d9b8d; stroke-width: 1.35"/>
+    </defs>
+    <g clip-path="url(#p3ee3ea27b8)">
+     <use xlink:href="#mb731850e3c" x="434.889431" y="438.261922" style="fill: #ffffff; stroke: #4d9b8d; stroke-width: 1.35"/>
+    </g>
+   </g>
+   <g id="text_52">
+    <g id="patch_22">
+     <path d="M 369.242095 435.451922 
+L 500.536767 435.451922 
+Q 500.860767 435.451922 500.860767 435.127922 
+L 500.860767 425.258578 
+Q 500.860767 424.934578 500.536767 424.934578 
+L 369.242095 424.934578 
+Q 368.918095 424.934578 368.918095 425.258578 
+L 368.918095 435.127922 
+Q 368.918095 435.451922 369.242095 435.451922 
+z
+" style="fill: #ffffff; opacity: 0.96; stroke: #4d9b8d; stroke-width: 0.55; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d9b8d" x="434.889431" y="432.289125" transform="rotate(-0 434.889431 432.289125)">tL  Identifiable local decay begins</text>
+   </g>
+   <g id="PathCollection_8">
+    <defs>
+     <path id="m1b9b881ba7" d="M 0 2.828427 
+C 0.750108 2.828427 1.469594 2.530406 2 2 
+C 2.530406 1.469594 2.828427 0.750108 2.828427 0 
+C 2.828427 -0.750108 2.530406 -1.469594 2 -2 
+C 1.469594 -2.530406 0.750108 -2.828427 0 -2.828427 
+C -0.750108 -2.828427 -1.469594 -2.530406 -2 -2 
+C -2.530406 -1.469594 -2.828427 -0.750108 -2.828427 0 
+C -2.828427 0.750108 -2.530406 1.469594 -2 2 
+C -1.469594 2.530406 -0.750108 2.828427 0 2.828427 
+z
+" style="stroke: #397fa3; stroke-width: 1.3"/>
+    </defs>
+    <g clip-path="url(#p3ee3ea27b8)">
+     <use xlink:href="#m1b9b881ba7" x="162.009534" y="477.061922" style="fill: #ffffff; stroke: #397fa3; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="text_53">
+    <text style="font-weight: 700; font-size: 7.8px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #397fa3" x="171.512814" y="472.418641" transform="rotate(-0 171.512814 472.418641)">Forecast issue time</text>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#p3ee3ea27b8)">
+     <use xlink:href="#mb731850e3c" x="434.889431" y="533.321922" style="fill: #ffffff; stroke: #4d9b8d; stroke-width: 1.35"/>
+    </g>
+   </g>
+   <g id="text_54">
+    <g id="patch_23">
+     <path d="M 359.260743 530.511922 
+L 510.518118 530.511922 
+Q 510.842118 530.511922 510.842118 530.187922 
+L 510.842118 520.523609 
+Q 510.842118 520.199609 510.518118 520.199609 
+L 359.260743 520.199609 
+Q 358.936743 520.199609 358.936743 520.523609 
+L 358.936743 530.187922 
+Q 358.936743 530.511922 359.260743 530.511922 
+z
+" style="fill: #ffffff; opacity: 0.96; stroke: #4d9b8d; stroke-width: 0.55; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d9b8d" x="434.889431" y="527.455437" transform="rotate(-0 434.889431 527.455437)">tC  Sustained environmental clearance</text>
+   </g>
+   <g id="PathCollection_10">
+    <defs>
+     <path id="m46bb971311" d="M 0 2.915476 
+C 0.773193 2.915476 1.514823 2.608283 2.061553 2.061553 
+C 2.608283 1.514823 2.915476 0.773193 2.915476 0 
+C 2.915476 -0.773193 2.608283 -1.514823 2.061553 -2.061553 
+C 1.514823 -2.608283 0.773193 -2.915476 0 -2.915476 
+C -0.773193 -2.915476 -1.514823 -2.608283 -2.061553 -2.061553 
+C -2.608283 -1.514823 -2.915476 -0.773193 -2.915476 0 
+C -2.915476 0.773193 -2.608283 1.514823 -2.061553 2.061553 
+C -1.514823 2.608283 -0.773193 2.915476 0 2.915476 
+z
+" style="stroke: #c9904d; stroke-width: 1.35"/>
+    </defs>
+    <g clip-path="url(#p3ee3ea27b8)">
+     <use xlink:href="#m46bb971311" x="610.021305" y="585.701922" style="fill: #ffffff; stroke: #c9904d; stroke-width: 1.35"/>
+    </g>
+   </g>
+   <g id="text_55">
+    <g id="patch_24">
+     <path d="M 443.451056 582.891922 
+L 602.817291 582.891922 
+Q 603.141291 582.891922 603.141291 582.567922 
+L 603.141291 572.698578 
+Q 603.141291 572.374578 602.817291 572.374578 
+L 443.451056 572.374578 
+Q 443.127056 572.374578 443.127056 572.698578 
+L 443.127056 582.567922 
+Q 443.127056 582.891922 443.451056 582.891922 
+z
+" style="fill: #ffffff; opacity: 0.96; stroke: #c9904d; stroke-width: 0.55; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'IBM Plex Sans', 'Inter', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #c9904d" x="523.134174" y="579.729125" transform="rotate(-0 523.134174 579.729125)">tF  Functional recovery after exceedance</text>
+   </g>
+   <g id="PathCollection_11">
+    <g clip-path="url(#p3ee3ea27b8)">
+     <use xlink:href="#m1b9b881ba7" x="162.009534" y="676.105922" style="fill: #ffffff; stroke: #397fa3; stroke-width: 1.3"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3ee3ea27b8">
+   <rect x="34.394059" y="5.641922" width="950.328" height="698.4"/>
+  </clipPath>
+ </defs>
+</svg>
