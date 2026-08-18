@@ -1,0 +1,593 @@
+---
+title: ""
+output:
+  xaringan::moon_reader:
+    css:
+      - assets/fontawesome/css/all.min.css
+      - assets/css/deck.css
+      - assets/css/v3.css
+      - assets/css/v3-refine.css
+    seal: false
+    self_contained: true
+    chakra: assets/js/remark.min.js
+    includes:
+      after_body: assets/includes/after.html
+    nature:
+      ratio: "16:9"
+      countIncrementalSlides: false
+      slideNumberFormat: ""
+      highlightLines: false
+      navigation:
+        scroll: false
+        touch: true
+---
+
+name: cover
+class: cover
+
+<div class="cover-inner">
+  <div class="cover-lockup"><img src="assets/logos/doa-sidebar-logo.png" alt="National University of Singapore Department of Architecture"></div>
+  <div class="cover-kicker">NUS RESEARCH SCHOLARSHIP NOMINATION INTERVIEW</div>
+  <h1>A Self Introduction</h1>
+  <div class="cover-sections"><span>Education</span><span>Research Portfolio</span><span>Research Proposal</span><span>Future Plans</span></div>
+  <div class="cover-name">Jiaying Li</div>
+  <div class="cover-programme">Doctor of Philosophy in Architecture · January 2027 Intake</div>
+  <div class="cover-meta">
+    <div><b>College of Design &amp; Engineering</b><br>Department of Architecture</div>
+    <div><b>Proposed Supervisor</b> · Dr Jinda Qi<br><b>Application No.</b> · R656527237</div>
+    <div class="cover-date"><b>18 August 2026</b><br>1:00–1:30 pm Singapore Time · Online</div>
+  </div>
+</div>
+
+???
+Good afternoon, and thank you for the opportunity. I am Jiaying Li, currently completing the MRes in Urban Spatial Science at UCL CASA. I will introduce myself through four connected parts: my education, selected research outputs, the research I propose for the PhD, and my future plans.
+
+[Sources]
+Programme, application number, supervisor and interview details: applicant's NUS application and scholarship nomination email.
+Official NUS Department of Architecture mark: https://cde.nus.edu.sg/arch/
+
+---
+name: profile
+class: section-education
+
+## Education | Biography
+
+<div class="profile-layout">
+  <div class="profile-left">
+    <div class="profile-card-head">
+      <div class="portrait-frame"><img src="assets/img/jiaying-portrait.jpg" alt="Portrait of Jiaying Li"></div>
+      <div class="profile-name"><b>Jiaying Li</b><span>MRes Urban Spatial Science</span></div>
+    </div>
+    <div class="profile-facts">
+      <div><label>AGE</label><b>24</b></div><div><label>HOMETOWN</label><b>Beijing</b></div>
+      <div><label>HOBBY</label><b>Hiking · Snowboarding</b></div><div><label>GRADUATION</label><b>September 2026</b></div>
+    </div>
+    <div class="profile-affiliation">The Bartlett Centre for Advanced Spatial Analysis (CASA)<br>University College London (UCL)</div>
+    <div class="profile-links">
+      <a href="mailto:jiaying-li.25@ucl.ac.uk"><i class="fas fa-envelope" aria-hidden="true"></i><span>jiaying-li.25@ucl.ac.uk</span></a>
+      <a href="https://github.com/JIAYING-ICE" target="_blank"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub: JIAYING-ICE</span></a>
+      <a href="https://www.ucl.ac.uk/bartlett/casa" target="_blank"><i class="fas fa-link" aria-hidden="true"></i><span>UCL CASA Site</span></a>
+      <a href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/CV_Jiaying_LI.pdf" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>View Academic CV (GitHub)</span></a>
+    </div>
+    <div class="application-card"><b>PhD Architecture · NUS CDE</b><span>Urban climate, spatial computation and built-environment performance</span><a href="https://cde.nus.edu.sg/arch/staffs/qi-jinda/" target="_blank">Proposed supervisor · Dr Jinda Qi ↗</a></div>
+  </div>
+  <div class="profile-right">
+    <div class="web-panelset profile-panelset" data-default="journey">
+      <div class="web-tabs"><button class="web-tab" type="button" data-panel="journey">ACADEMIC JOURNEY</button><button class="web-tab" type="button" data-panel="personality">PERSONALITY</button></div>
+      <div class="web-panels">
+        <div class="web-panel" data-panel="journey">
+          <div class="web-panelset school-panelset" data-default="thu">
+            <div class="web-tabs school-tabs"><button class="web-tab" type="button" data-panel="thu">THU</button><button class="web-tab" type="button" data-panel="bucea">BUCEA</button><button class="web-tab" type="button" data-panel="ucl">UCL CASA</button></div>
+            <div class="web-panels school-panels">
+              <div class="web-panel" data-panel="thu">
+                <div class="school-heading"><b>Tsinghua University (THU)</b><span>School of Architecture · Beijing, China</span></div>
+                <div class="school-grid"><div><label>PROGRAMME</label><span>Joint Education Programme</span></div><div><label>DURATION</label><span>Sep 2020 – Jul 2023</span></div><div><label>ACADEMIC PERFORMANCE</label><span>GPA 3.67 / 4.0 · 9 of 11 architectural design courses awarded 4.0</span></div><div><label>HONOURS &amp; SCHOLARSHIPS</label><span>Malan Flower Scholarship · Excellence Awards in Academics, Arts and Social Practice</span></div></div>
+              </div>
+              <div class="web-panel" data-panel="bucea">
+                <div class="school-heading"><b>Beijing University of Civil Engineering and Architecture (BUCEA)</b><span>School of Architecture and Urban Planning</span></div>
+                <div class="school-grid"><div><label>DEGREE</label><span>Bachelor of Architecture (BArch)</span></div><div><label>DURATION</label><span>Sep 2020 – Jul 2025</span></div><div><label>ACADEMIC STANDING</label><span>GPA 3.85 / 4.0 · Rank 2 / 56</span></div><div><label>MAJOR HONOUR</label><span>Outstanding Freshman Scholarship (2020 Cohort)</span></div></div>
+              </div>
+              <div class="web-panel" data-panel="ucl">
+                <div class="school-heading"><b>University College London (UCL)</b><span>The Bartlett Centre for Advanced Spatial Analysis (CASA)</span></div>
+                <div class="school-grid"><div><label>DEGREE</label><span>MRes Urban Spatial Science</span></div><div><label>DURATION</label><span>Sep 2025 – Sep 2026 · Ongoing</span></div><div><label>RESEARCH FOCUS</label><span>Advanced Spatial Analysis &amp; Data Science · Geospatial Big Data · Remote Sensing</span></div><div><label>SYSTEMS METHODS</label><span>Urban Simulation &amp; Systems Modelling</span></div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="web-panel" data-panel="personality">
+          <div class="personality-kicker">ADVENTURE SEEKER · ORIGINAL PORTFOLIO MAP</div>
+          <pre class="adventure-map">                  ┌──────────────────────JIAYING──────────────────────┐
+                  ▼
+[ Autonomous decision-making system ]                      [ Iterates &amp; Expands ]
+                  ▲                                                   ▲
+                  │                                                   │
+            [ Certainty ]                                         Vitality
+                  ▲                                                   ▲
+                  │                                                   │
+           “Deep Generalist”                                 [ Uncertainty ]
+                  ▲                                                   ▲
+                  │                         ┌─────────────────────────┼────────────────────────┐
+         Systematic thinking           Growth mindset             Adaptability           Resilience
+                  ▲                         ▲                         ▲                        ▲
+        ┌─────────┴─────────┐               └─────────────────────────┼────────────────────────┘
+    Intensity         Complexity                                      │
+        ▲                   ▲               ┌─────────────────────────┼────────────────────────┐
+        └─────────┬─────────┘          Curiosity driven          Risk driven           Meaning driven
+                  │                         ▲                         ▲                        ▲
+                  │                          └────────────────────────┼────────────────────────┘
+             [ OBJECT ]                                               │
+         (System Narrative)                                      [ SUBJECT ]
+                  ▲                                            (Personal Dynamic)
+                  │                                                   ▲
+                  └──────────────────────────┬────────────────────────┘
+                                    [ Adventure seeker ]</pre>
+          <div class="personality-summary"><b>Curiosity</b><span>Systematic thinking</span><span>Adaptability</span><span>Resilience</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+???
+My education combines architecture and urban spatial science. Tsinghua and BUCEA trained me to work with spatial form, material systems, urban context and implementation. CASA made these questions measurable through geospatial data, remote sensing, spatial statistics and urban modelling. The personality map is retained from my portfolio because it describes how I work: curiosity defines the question, systematic thinking structures the evidence, and adaptability supports iteration under uncertainty.
+
+[Sources]
+Academic facts and research outputs: latest applicant CV, published at https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/CV_Jiaying_LI.pdf
+Portrait and personal portfolio material: author-provided assets.
+Dr Jinda Qi profile: https://cde.nus.edu.sg/arch/staffs/qi-jinda/
+
+---
+name: design
+class: section-education
+
+## Design as my starting point
+
+<div class="design-context-rail"><div><label>ARCHITECTURAL EDUCATION</label><b>Building · installation · urban design</b></div><div><label>INTERNSHIP &amp; BUILT WORK</label><b>On-site delivery · UABB Shenzhen</b></div></div>
+
+<div class="design-gallery">
+  <a class="design-built" href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/Portfolio_Jiaying_LI.pdf#page=38" target="_blank"><img src="images/portfolio/design_01_built.png" alt="Constructed design work"><div class="design-label"><b>Built work</b><span>Internship project · installation and on-site delivery · UABB Shenzhen</span></div></a>
+  <div class="design-grid-small">
+    <a href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/Portfolio_Jiaying_LI.pdf#page=4" target="_blank"><img src="images/portfolio/design_02_installation.png" alt="Installation design"><span>Installation</span></a>
+    <a href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/Portfolio_Jiaying_LI.pdf#page=11" target="_blank"><img src="images/portfolio/design_03_structure.png" alt="Architectural structure design"><span>Structure</span></a>
+    <a href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/Portfolio_Jiaying_LI.pdf#page=22" target="_blank"><img src="images/portfolio/design_04_urban.png" alt="Urban design project"><span>Urban design</span></a>
+    <a href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/Portfolio_Jiaying_LI.pdf#page=30" target="_blank"><img src="images/portfolio/design_05_building.png" alt="Architectural design project"><span>Architecture</span></a>
+  </div>
+</div>
+
+<div class="design-takeaway"><b>SPATIAL FORM</b><span>+</span><b>ENVIRONMENTAL PERFORMANCE</b><span>+</span><b>IMPLEMENTATION</b></div>
+
+???
+Design was my starting point. It trained me to move between the scale of a component, a building and an urban system while keeping implementation in view. During an internship, one project was constructed and exhibited at the ninth Bi-City Biennale of Urbanism and Architecture in Shenzhen. This experience still shapes how I approach research: evidence should eventually inform something that can be designed, operated or changed.
+
+[Sources]
+Portfolio images and linked portfolio PDF: author-provided portfolio repository, https://github.com/JIAYING-ICE/Jiaying-portfolio
+Course and studio results: latest applicant CV.
+
+---
+name: toolkit
+class: section-education
+
+## CASA | Research Toolkit
+
+<div class="web-panelset toolkit-panelset" data-default="capability">
+  <div class="web-tabs"><button class="web-tab" type="button" data-panel="capability">CAPABILITY MAP</button><button class="web-tab" type="button" data-panel="matrix">TOOLKITS</button><button class="web-tab" type="button" data-panel="coursework">COURSEWORK</button></div>
+  <div class="web-panels">
+    <div class="web-panel" data-panel="capability">
+      <div class="toolkit-layout">
+        <div class="toolkit-map tech-neuron" data-active-toolkit="geo">
+          <svg class="neuron-links" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
+            <g class="branch-links branch-geo">
+              <path class="neuron-trunk" d="M50 50 C42 47 34 38 27 31"/>
+              <path d="M27 31 C20 24 15 18 11 15 M27 31 C20 38 15 45 11 51"/>
+              <path d="M11 15 L2 7 M11 15 L13 6 M11 15 L2 20 M11 15 L4 31 M11 51 L2 43 M11 51 L4 59"/>
+            </g>
+            <g class="branch-links branch-spatial">
+              <path class="neuron-trunk" d="M50 50 C58 47 66 38 73 31"/>
+              <path d="M73 31 C81 22 86 17 89 13 M73 31 C81 31 86 32 90 33 M73 31 C80 40 84 48 88 53"/>
+              <path d="M89 13 L91 4 M89 13 L98 8 M90 33 L98 20 M90 33 L99 28 M90 33 L99 38 M90 33 L96 45 M88 53 L98 51 M88 53 L99 60 M88 53 L96 69 M88 53 L99 76"/>
+            </g>
+            <g class="branch-links branch-simulation">
+              <path class="neuron-trunk" d="M50 50 C50 57 50 63 50 69"/>
+              <path d="M50 69 C39 73 30 78 22 83 M50 69 C50 76 50 82 50 86 M50 69 C61 73 70 78 78 83"/>
+              <path d="M22 83 L8 77 M22 83 L6 87 M22 83 L13 95 M22 83 L27 95 M50 86 L41 96 M50 86 L50 96 M50 86 L59 96 M78 83 L73 95 M78 83 L91 88"/>
+            </g>
+          </svg>
+          <div class="toolkit-hub"><span>CASA</span><b>RESEARCH<br>TOOLKIT</b></div>
+          <button class="toolkit-primary node-geo is-selected" type="button" data-toolkit="geo"><span>OBSERVE</span><b>Geospatial<br>Big Data</b></button>
+          <button class="toolkit-primary node-spatial" type="button" data-toolkit="spatial"><span>MEASURE</span><b>Advanced Spatial<br>Data Science</b></button>
+          <button class="toolkit-primary node-sim" type="button" data-toolkit="simulation"><span>TEST</span><b>Urban Simulation<br>&amp; Systems</b></button>
+
+          <span class="neuron-secondary branch-geo" style="--x:11%;--y:15%;">GIS &amp; Science</span>
+          <span class="neuron-secondary branch-geo" style="--x:11%;--y:51%;">Remote Sensing</span>
+          <span class="neuron-secondary branch-spatial" style="--x:89%;--y:13%;">Quant Methods</span>
+          <span class="neuron-secondary branch-spatial" style="--x:90%;--y:33%;">Foundations of SDS</span>
+          <span class="neuron-secondary branch-spatial" style="--x:88%;--y:53%;">DS for Spatial Systems</span>
+          <span class="neuron-secondary branch-simulation" style="--x:22%;--y:83%;">Urban Systems Theory</span>
+          <span class="neuron-secondary branch-simulation" style="--x:50%;--y:86%;">Agent-based Modelling</span>
+          <span class="neuron-secondary branch-simulation" style="--x:78%;--y:83%;">Urban Simulation</span>
+
+          <span class="neuron-terminal branch-geo" style="--x:2%;--y:7%;" data-label="GIS" title="GIS"></span>
+          <span class="neuron-terminal branch-geo" style="--x:13%;--y:6%;" data-label="RStudio" title="RStudio"></span>
+          <span class="neuron-terminal branch-geo" style="--x:2%;--y:20%;" data-label="R Markdown" title="R Markdown"></span>
+          <span class="neuron-terminal branch-geo" style="--x:4%;--y:31%;" data-label="OpenStreetMap" title="OpenStreetMap"></span>
+          <span class="neuron-terminal branch-geo" style="--x:2%;--y:43%;" data-label="Earth Observation" title="Earth Observation"></span>
+          <span class="neuron-terminal branch-geo" style="--x:4%;--y:59%;" data-label="Google Earth Engine" title="Google Earth Engine"></span>
+
+          <span class="neuron-terminal branch-spatial" style="--x:91%;--y:4%;" data-label="R" title="R"></span>
+          <span class="neuron-terminal branch-spatial" style="--x:98%;--y:8%;" data-label="Statistics" title="Statistics"></span>
+          <span class="neuron-terminal branch-spatial" style="--x:98%;--y:20%;" data-label="Python" title="Python"></span>
+          <span class="neuron-terminal branch-spatial" style="--x:99%;--y:28%;" data-label="SQL" title="SQL"></span>
+          <span class="neuron-terminal branch-spatial" style="--x:99%;--y:38%;" data-label="GitHub" title="GitHub"></span>
+          <span class="neuron-terminal branch-spatial" style="--x:96%;--y:45%;" data-label="Docker" title="Docker"></span>
+          <span class="neuron-terminal branch-spatial" style="--x:98%;--y:51%;" data-label="Machine Learning" title="Machine Learning"></span>
+          <span class="neuron-terminal branch-spatial" style="--x:99%;--y:60%;" data-label="CNN" title="CNN"></span>
+          <span class="neuron-terminal branch-spatial" style="--x:96%;--y:69%;" data-label="ANN" title="ANN"></span>
+          <span class="neuron-terminal branch-spatial" style="--x:99%;--y:76%;" data-label="Algorithms" title="Algorithms"></span>
+
+          <span class="neuron-terminal branch-simulation" style="--x:8%;--y:77%;" data-label="Causal Diagrams" title="Causal Diagrams"></span>
+          <span class="neuron-terminal branch-simulation" style="--x:6%;--y:87%;" data-label="System Dynamics" title="System Dynamics"></span>
+          <span class="neuron-terminal branch-simulation" style="--x:13%;--y:95%;" data-label="Scaling Laws" title="Scaling Laws"></span>
+          <span class="neuron-terminal branch-simulation" style="--x:27%;--y:95%;" data-label="Complexity" title="Complexity"></span>
+          <span class="neuron-terminal branch-simulation" style="--x:41%;--y:96%;" data-label="NetLogo" title="NetLogo"></span>
+          <span class="neuron-terminal branch-simulation" style="--x:50%;--y:96%;" data-label="ABM–GIS" title="ABM–GIS"></span>
+          <span class="neuron-terminal branch-simulation" style="--x:59%;--y:96%;" data-label="Optimisation" title="Optimisation"></span>
+          <span class="neuron-terminal branch-simulation" style="--x:73%;--y:95%;" data-label="Network Modelling" title="Network Modelling"></span>
+          <span class="neuron-terminal branch-simulation" style="--x:91%;--y:88%;" data-label="Flow Simulation" title="Flow Simulation"></span>
+          <span class="neuron-caption">36 CONNECTED CAPABILITIES · SELECT A PRIMARY BRANCH</span>
+        </div>
+        <div class="toolkit-detail" aria-live="polite"><div class="toolkit-detail-kicker">OBSERVE</div><b class="toolkit-detail-title">Observe urban conditions across scales and time</b><p class="toolkit-detail-body">Earth observation, LiDAR, GIS and three-dimensional urban data resolve buildings, infrastructure and environmental change.</p><div class="toolkit-evidence"><b>HOW</b><span>Remote sensing · GIScience · LiDAR · OpenStreetMap · Google Earth Engine</span></div><button class="node-drawer-toggle" type="button">VIEW ALL 36 NODES</button></div>
+      </div>
+      <div class="node-drawer" aria-hidden="true">
+        <div class="node-drawer-head"><b>CASA Tech Neuron · 36 connected nodes</b><button class="node-drawer-close" type="button">CLOSE</button></div>
+        <div class="neuron-columns">
+          <section class="neuron-branch"><div class="neuron-verb">MEASURE</div><b class="level-1">Advanced Spatial Data Science</b><div class="branch-group"><b>Quant Methods</b><span>R</span><span>Statistics</span></div><div class="branch-group"><b>Foundations of SDS</b><span>Python</span><span>SQL</span><span>GitHub</span><span>Docker</span></div><div class="branch-group"><b>DS for Spatial Systems</b><span>ML</span><span>CNN</span><span>ANN</span><span>Algorithms</span></div></section>
+          <section class="neuron-branch"><div class="neuron-verb">OBSERVE</div><b class="level-1">Geospatial Big Data</b><div class="branch-group"><b>GIS &amp; Science</b><span>GIS</span><span>RStudio</span><span>R Markdown</span><span>OpenStreetMap</span></div><div class="branch-group"><b>Remote Sensing</b><span>Earth Observation</span><span>Google Earth Engine</span></div></section>
+          <section class="neuron-branch"><div class="neuron-verb">TEST</div><b class="level-1">Urban Simulation &amp; Systems</b><div class="branch-group"><b>Urban Systems Theory</b><span>Causal Diagrams</span><span>System Dynamics</span><span>Scaling Laws</span><span>Complexity</span></div><div class="branch-group"><b>Agent-based Modelling</b><span>NetLogo</span><span>ABM–GIS</span><span>Optimisation</span></div><div class="branch-group"><b>Urban Simulation</b><span>Network Modelling</span><span>Flow Simulation</span></div></section>
+        </div>
+      </div>
+    </div>
+    <div class="web-panel" data-panel="matrix">
+      <table class="evidence-matrix toolkit-table"><thead><tr><th>RESEARCH TASK</th><th>WHAT</th><th>HOW</th></tr></thead><tbody>
+        <tr><td><b>Observe conditions</b></td><td>Buildings, infrastructure and environmental change across scales and time</td><td>GIS · EO · LiDAR · 3D urban data</td></tr>
+        <tr><td><b>Measure patterns</b></td><td>Spatial variation, recurrence, uncertainty and scale sensitivity</td><td>Spatial statistics · hierarchical models · sensitivity analysis</td></tr>
+        <tr><td><b>Explain mechanisms</b></td><td>Candidate processes and bounded interpretations</td><td>Causal diagrams · interpretable ML · process models</td></tr>
+        <tr><td><b>Evaluate interventions</b></td><td>Design and operational alternatives under explicit objectives</td><td>Parametric modelling · EnergyPlus · LCA · multi-criteria analysis</td></tr>
+        <tr><td><b>Reproduce evidence</b></td><td>Traceable data transformations, figures and robustness checks</td><td>R · Python · SQL · Git · versioned workflows</td></tr>
+      </tbody></table>
+      <div class="research-domain-summary"><b>A spatial evidence programme for built-environment performance</b><span>BUILT ENVIRONMENT</span><span>ENVIRONMENTAL SUSTAINABILITY</span><span>URBAN HEALTH</span><span>ENERGY TRANSITION</span><span>CLIMATE RESILIENCE</span></div>
+    </div>
+    <div class="web-panel" data-panel="coursework"><div class="course-grid six">
+      <a href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/UrbanSystemsTheory_CausalModel.pdf" target="_blank"><b>CASA0001 · Urban Systems Theory</b><span>Auto-dependency causal model · View PDF ↗</span></a>
+      <a href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/GeographicInformationSystemsScience_Final%20exam.pdf" target="_blank"><b>CASA0005 · GIScience</b><span>Spatial analysis final exam · View PDF ↗</span></a>
+      <a href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/DataScienceForSpatialSystems_LondonRoadSafety.pdf" target="_blank"><b>CASA0006 · Data Science</b><span>Road collision severity · View PDF ↗</span></a>
+      <a href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/QuantitativeMethods_Drone_Supply%20_Demand.pdf" target="_blank"><b>CASA0007 · Quantitative Methods</b><span>Drone supply–demand study · View PDF ↗</span></a>
+      <a href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/FoundationsOfSpatialDataScience%20_GroupWork.pdf" target="_blank"><b>CASA0013 · Foundations of SDS</b><span>Group research report · View PDF ↗</span></a>
+      <a href="https://jiaying-ice.github.io/Jiaying-portfolio/CASA_WORK/CASA0023_Learning_Diary/index.html" target="_blank"><b>CASA0023 · Remote Sensing</b><span>Interactive learning diary · View site ↗</span></a>
+    </div><div class="course-note"><b>OBSERVE → MEASURE → EXPLAIN → EVALUATE → REPRODUCE</b></div></div>
+  </div>
+</div>
+
+???
+CASA extended my design training into a research toolkit. I use geospatial data to observe conditions, spatial analysis to measure patterns and uncertainty, and simulation to test explanations or alternatives. Together, these capabilities support research on built-environment performance across sustainability, health, energy transition and climate resilience. The full thirty-six-node map and six inspected coursework outputs remain available through the interactive tabs.
+
+[Sources]
+CASA curriculum and coursework: author-provided course materials and portfolio repository.
+Thirty-six-node taxonomy adapted from the author's original CASA Tech Neuron in Jiaying-2026 portfolio.Rmd.
+
+---
+name: portfolio
+class: section-portfolio
+
+## Research Portfolio | Selected Work
+
+<div class="portfolio-grid">
+  <a class="research-card" href="#bipv"><div class="research-thumb"><img src="images/research_outputs/bipv/bipv_retrofit_configurations.png" alt="BIPV renovation configurations"></div><div class="research-status">MANUSCRIPT UNDER REVIEW</div><b>Community-scale BIPV renovation</b><span>Energy · carbon · economics · architectural integration</span><small>Equal first author</small></a>
+  <a class="research-card" href="#cpc"><div class="research-thumb"><img src="images/research_outputs/cpc/cpc_survival_inequities_manual.png" alt="Cardiac emergency survival inequities"></div><div class="research-status">MANUSCRIPT UNDER REVIEW</div><b>Urban cardiac emergency survival</b><span>Infrastructure · operations · spatial health equity</span><small>Second author</small></a>
+  <a class="research-card" href="#mres"><div class="research-thumb"><img src="images/research_outputs/mres/mres_evidence_architecture.svg" alt="MRes evidence architecture"></div><div class="research-status">MANUSCRIPT IN PREPARATION</div><b>Rooftop solar deployment–opportunity alignment</b><span>LiDAR · remote sensing · temporal identification</span><small>First author</small></a>
+  <a class="research-card next" href="#research-direction"><div class="research-thumb"><img src="images/research_outputs/proposal/proposal_research_framework.png" alt="Proposed PhD research framework"></div><div class="research-status">NEXT RESEARCH</div><b>Urban humid-heat persistence and recovery</b><span>Mechanisms · model sufficiency · building significance</span><small>PhD research proposal</small></a>
+</div>
+
+<div class="portfolio-bridge portfolio-keywords"><span>ENVIRONMENTAL SUSTAINABILITY</span><span>URBAN HEALTH</span><span>ENERGY TRANSITION</span><span>CLIMATE RESILIENCE</span></div>
+
+???
+My research portfolio contains three substantive projects and the proposed next research programme. The first examines policy choices in community BIPV renovation. The second examines how infrastructure and operations shape cardiac emergency survival across cities. The third measures rooftop solar deployment against building-level opportunity through temporal identification. I will introduce each project through the same structure: problem, evidence, result, my role and the TAKE AWAY that carries into the PhD.
+
+[Sources]
+BIPV, CPC and MRes figures: author-provided manuscripts, dissertation and original figure files.
+Proposal thumbnail: author-provided verified PhD proposal figure.
+
+---
+name: bipv
+class: section-portfolio research-detail
+
+## Community-scale BIPV | Policy priorities produce different optima
+
+<div class="metric-rail four"><div><b>79</b><span>residential units</span></div><div><b>15</b><span>configurations</span></div><div><b>3</b><span>policy-conditional optima</span></div><div><b>73.6–115.0%</b><span>solar self-sufficiency</span></div></div>
+
+<div class="research-detail-layout">
+  <div class="web-panelset figure-panelset" data-default="optima">
+    <div class="web-tabs compact"><button class="web-tab" type="button" data-panel="optima">OPTIMA</button><button class="web-tab" type="button" data-panel="frontier">FRONTIER</button><button class="web-tab" type="button" data-panel="workflow">WORKFLOW</button><button class="web-tab" type="button" data-panel="configurations">CONFIGURATIONS</button><button class="web-tab" type="button" data-panel="portfolio-matrix">PORTFOLIO MATRIX</button></div>
+    <div class="web-panels figure-panels">
+      <div class="web-panel" data-panel="optima"><img class="zoomable" src="images/research_outputs/bipv/bipv_policy_conditional_optima.png" alt="Three policy-conditional BIPV optima"><span>Three policy criteria select three different configurations.</span></div>
+      <div class="web-panel" data-panel="frontier"><img class="zoomable" src="images/research_outputs/bipv/bipv_tradeoff_frontier.png" alt="Carbon-economic trade-off frontier"><span>Carbon and economic performance across fifteen configurations.</span></div>
+      <div class="web-panel" data-panel="workflow"><img class="zoomable" src="images/research_outputs/bipv/bipv_research_workflow.png" alt="Four-stage BIPV research workflow"><span>Simulation, lifecycle evaluation and decision comparison.</span></div>
+      <div class="web-panel" data-panel="configurations"><img class="zoomable" src="images/research_outputs/bipv/bipv_retrofit_configurations.png" alt="Four progressive BIPV integration strategies"><span>Envelope improvement, rooftop pavilion and façade deployment.</span></div>
+      <div class="web-panel" data-panel="portfolio-matrix"><img class="zoomable" src="images/research_outputs/bipv/bipv_parallel_coordinates_portfolio.png" alt="Portfolio parallel-coordinate assessment"><span>Earlier portfolio view of the multi-criteria evidence.</span></div>
+    </div>
+  </div>
+  <div class="research-copy">
+    <div class="research-paper-title"><label>ARTICLE TITLE</label><b>Mapping the Trade-Off Frontier of Community-Scale Building-Integrated Photovoltaic (BIPV) Renovation</b><span>Multi-Criteria Evaluation Reveals Three Policy-Conditional Optima</span><em>ENERGY TRANSITION · ENVIRONMENTAL SUSTAINABILITY</em></div>
+    <div class="research-block"><label>PROBLEM</label><p>How should a community choose a BIPV renovation when energy, carbon and financial priorities favour different designs?</p></div>
+    <div class="research-block"><label>EVIDENCE</label><p>79 units · 15 configurations · ray-traced solar analysis · EnergyPlus · lifecycle carbon and financial evaluation</p></div>
+    <div class="research-block finding"><label>RESULT</label><p>Commercial, balanced and carbon-leading priorities selected three different optima; payback ranged from <b>8.01</b> to <b>11.71 years</b>.</p></div>
+    <div class="research-block role"><label>MY ROLE</label><p><b>Equal first author</b> · research design · parametric modelling · simulation · multi-criteria analysis · manuscript development</p></div>
+    <div class="research-block lesson"><label>TAKE AWAY</label><p>Transparent decision criteria convert technical performance into different policy choices.</p></div>
+  </div>
+</div>
+
+<div class="status-line">Under review · <i>Energy for Sustainable Development</i> · Equal first author</div>
+
+???
+Community-scale BIPV renovation presents a decision problem: energy, carbon and financial priorities can favour different designs. For a seventy-nine-unit community, we compared fifteen configurations using ray-traced solar analysis, EnergyPlus, lifecycle carbon and financial evaluation. The result was three policy-conditional optima—commercial, balanced and carbon-leading—rather than one imposed ranking. As equal first author, I led the integrated spatial, energy and multi-criteria analysis. The TAKE AWAY was that transparent criteria turn technical performance into a policy-relevant choice.
+
+[Sources]
+Source manuscript: Mapping the Trade-Off Frontier of Community-Scale Building-Integrated Photovoltaic Renovation: Multi-Criteria Evaluation Reveals Three Policy-Conditional Optima.
+Figures 1, 5, 12 and 17: original embedded media from the author-provided 20260707_manuscript.docx.
+Portfolio matrix: author-provided portfolio asset.
+
+---
+name: cpc
+class: section-portfolio research-detail
+
+## Urban cardiac emergency | Visible infrastructure and operational performance can diverge
+
+<div class="metric-rail four"><div><b>1.821M</b><span>STEMI records</span></div><div><b>4,259</b><span>centres</span></div><div><b>350</b><span>cities</span></div><div><b>2016–23</b><span>study period</span></div></div>
+
+<div class="research-detail-layout">
+  <div class="web-panelset figure-panelset cpc-figures" data-default="viof">
+    <div class="web-tabs compact six-tabs"><button class="web-tab" type="button" data-panel="viof">VIOF</button><button class="web-tab" type="button" data-panel="infrastructure">INFRASTRUCTURE</button><button class="web-tab" type="button" data-panel="operations">OPERATIONS</button><button class="web-tab" type="button" data-panel="decoupling">DECOUPLING</button><button class="web-tab" type="button" data-panel="inequities">INEQUITIES</button><button class="web-tab" type="button" data-panel="prediction">PREDICTION</button></div>
+    <div class="web-panels figure-panels">
+      <div class="web-panel" data-panel="viof"><img class="zoomable" src="images/research_outputs/cpc/cpc_viof_framework.png" alt="Visible infrastructure and operational function framework"><span>VIOF separates spatial access, operational execution and survival outcomes.</span></div>
+      <div class="web-panel" data-panel="infrastructure"><img class="zoomable" src="images/research_outputs/cpc/cpc_infrastructure_manual.png" alt="Visible infrastructure and pre-hospital accessibility"><span>Accessibility and regional hubness describe the visible system.</span></div>
+      <div class="web-panel" data-panel="operations"><img class="zoomable" src="images/research_outputs/cpc/cpc_operations_manual.png" alt="In-hospital workflow and reperfusion execution"><span>Workflow execution describes the operational system.</span></div>
+      <div class="web-panel" data-panel="decoupling"><img class="zoomable" src="images/research_outputs/cpc/cpc_decoupling_manual.png" alt="Decoupling between visible infrastructure and invisible operations"><span>Pre-hospital and in-hospital performance define distinct system conditions.</span></div>
+      <div class="web-panel" data-panel="inequities"><img class="zoomable" src="images/research_outputs/cpc/cpc_survival_inequities_manual.png" alt="Survival inequities across Chinese cities"><span>City-level survival outcomes reveal system inequities.</span></div>
+      <div class="web-panel" data-panel="prediction"><img class="zoomable" src="images/research_outputs/cpc/cpc_predictive_contributions.png" alt="Predictive contribution of infrastructure and operational variables"><span>SHAP-based predictive contribution by evidence domain.</span></div>
+    </div>
+  </div>
+  <div class="research-copy">
+    <div class="research-paper-title"><label>ARTICLE TITLE</label><b>Urban cardiac emergency survival inequities from seen infrastructure and unseen operations</b><em>URBAN HEALTH · BUILT-ENVIRONMENT SYSTEMS</em></div>
+    <div class="research-block"><label>PROBLEM</label><p>Why do cities with visible emergency-care capacity achieve different survival performance?</p></div>
+    <div class="research-block"><label>EVIDENCE</label><p>1.821M STEMI records · 4,259 centres · 350 cities · accessibility · hierarchical modelling · XGBoost and SHAP</p></div>
+    <div class="research-block finding"><label>RESULT</label><p>Pre-hospital and in-hospital performance diverged in <b>190 of 350 cities</b>; operational variables represented <b>69.0%</b> of SHAP-based predictive contribution.</p></div>
+    <div class="research-block role"><label>MY ROLE</label><p><b>Second author</b> · data curation · spatial and statistical analysis · interpretable modelling</p></div>
+    <div class="research-block lesson"><label>TAKE AWAY</label><p>Separating infrastructure from operations reveals distinct governance priorities.</p></div>
+  </div>
+</div>
+
+<div class="status-line">Under review · <i>Nature Cities</i> · Second author <span class="method-boundary">
+
+???
+The cardiac-emergency study asked how visible infrastructure aligns with operational performance across cities. The evidence covered one point eight two one million STEMI records, four thousand two hundred and fifty-nine centres and three hundred and fifty cities. Pre-hospital and in-hospital performance diverged in one hundred and ninety cities, and operational variables accounted for sixty-nine percent of the fitted model's SHAP-based predictive contribution—a predictive rather than causal interpretation. As second author, I contributed data curation, spatial and statistical analysis, and interpretable modelling. The TAKE AWAY was that separating infrastructure from operations reveals distinct governance priorities.
+
+[Sources]
+Source manuscript: Urban cardiac emergency survival inequities from seen infrastructure and unseen operations.
+Figures: author-replaced high-resolution screenshots in the interview image package.
+Authorship: applicant-confirmed role, Second author.
+
+---
+name: mres
+class: section-portfolio research-detail
+
+## Measuring Rooftop Solar Deployment–Opportunity Alignment
+<div class="slide-subtitle">A Building-Level Spatial Analysis with Temporal Identification in Washington, DC</div>
+
+<div class="metric-rail four mres-metrics"><div><b>160,959</b><span>citywide buildings</span></div><div><b>18.88%</b><span>conditioned model-indicated PV rate</span></div><div><b>3,540</b><span>comparability-controlled records</span></div><div><b>874</b><span>provisional candidates</span></div></div>
+
+<div class="research-detail-layout mres-detail">
+  <div class="web-panelset figure-panelset mres-figures" data-default="citywide">
+    <div class="web-tabs compact six-tabs"><button class="web-tab" type="button" data-panel="citywide">CITYWIDE</button><button class="web-tab" type="button" data-panel="alignment">ALIGNMENT</button><button class="web-tab" type="button" data-panel="architecture">EVIDENCE</button><button class="web-tab" type="button" data-panel="pipeline">MEASUREMENT</button><button class="web-tab" type="button" data-panel="temporal">TEMPORAL</button><button class="web-tab" type="button" data-panel="longitudinal">LONGITUDINAL</button></div>
+    <div class="web-panels figure-panels">
+      <div class="web-panel" data-panel="citywide"><img class="zoomable" src="images/research_outputs/mres/mres_fig4_2_citywide_geography.png" alt="Final integrated citywide spatial synthesis"><span>Final dissertation Fig. 4.2 · citywide and multi-scale spatial synthesis.</span></div>
+      <div class="web-panel" data-panel="alignment"><img class="zoomable" src="images/research_outputs/mres/mres_fig4_1_continuous_alignment.png" alt="Final continuous deployment-opportunity alignment"><span>Final dissertation Fig. 4.1 · deployment across opportunity deciles.</span></div>
+      <div class="web-panel" data-panel="architecture"><img class="zoomable svg-source" src="images/research_outputs/mres/mres_fig1_1_evidence_architecture.svg" alt="Final evidence architecture for rooftop solar deployment and opportunity"><span>Final dissertation Fig. 1.1 · independent evidence streams linked at building level.</span></div>
+      <div class="web-panel" data-panel="pipeline"><img class="zoomable" src="images/research_outputs/mres/mres_fig3_2_measurement_pipeline.png" alt="Final building-level PV measurement pipeline"><span>Final dissertation Fig. 3.2 · reference interpretation, U-Net and building endpoint.</span></div>
+      <div class="web-panel" data-panel="temporal"><img class="zoomable" src="images/research_outputs/mres/mres_fig3_3_temporal_comparability.png" alt="Final temporal identification and comparability logic"><span>Final dissertation Fig. 3.3 · first-visible timing, censoring and comparability.</span></div>
+      <div class="web-panel" data-panel="longitudinal"><img class="zoomable" src="images/research_outputs/mres/mres_fig4_3_longitudinal_synthesis.png" alt="Final AOI60 longitudinal synthesis"><span>Final dissertation Fig. 4.3 · controlled temporal corpus and provisional candidates.</span></div>
+    </div>
+  </div>
+  <div class="research-copy">
+    <div class="research-paper-title"><label>DISSERTATION TITLE</label><b>Measuring Rooftop Solar Deployment–Opportunity Alignment</b><span>A Building-Level Spatial Analysis with Temporal Identification in Washington, DC</span><em>ENERGY TRANSITION · SPATIAL SUSTAINABILITY</em></div>
+    <div class="research-block"><label>PROBLEM</label><p>Does rooftop PV deployment align with building-level opportunity once reporting scale and timing are controlled?</p></div>
+    <div class="research-block"><label>EVIDENCE</label><p>U-Net-derived PV evidence · official footprints · 2024 LiDAR opportunity · 2015–2025 imagery · multi-scale sensitivity analysis</p></div>
+    <div class="research-block finding"><label>RESULT</label><p>Within <b>40,240</b> upper-quartile buildings, <b>7,598</b> were model-indicated PV-positive; temporal screening retained <b>3,540</b> comparable records, including <b>874</b> provisional candidates.</p></div>
+    <div class="research-block role"><label>MY ROLE</label><p><b>First author</b> · study design · data engineering · modelling · validation · sensitivity analysis · interpretation</p></div>
+    <div class="research-block lesson"><label>TAKE AWAY</label><p>Denominator, spatial scale and temporal comparability can shape the conclusion as strongly as the detection model.</p></div>
+  </div>
+</div>
+
+<div class="status-line">MRes dissertation · Manuscript in preparation · First author</div>
+
+???
+My MRes addressed a measurement problem: deployment maps show where PV is visible, while planning requires comparison with building-level opportunity over time. I integrated repeated imagery, official footprints and LiDAR across one hundred and sixty thousand nine hundred and fifty-nine buildings. Among forty thousand two hundred and forty buildings in the upper opportunity quartile, seven thousand five hundred and ninety-eight had model-indicated PV. The controlled temporal subset retained three thousand five hundred and forty records, including eight hundred and seventy-four high-opportunity buildings with no PV observed by 2025. I independently owned the full workflow from question definition to sensitivity analysis. The TAKE AWAY was that denominator, scale and temporal evidence can shape the conclusion as strongly as the detection model.
+
+[Sources]
+Source dissertation: Measuring Rooftop Solar Deployment–Opportunity Alignment: A Building-Level Spatial Analysis with Temporal Identification in Washington, DC.
+Figures: final dissertation figures 1.1, 3.2, 3.3, 4.1, 4.2 and 4.3 from the author-controlled final figure package.
+
+---
+name: research-direction
+class: section-proposal
+
+## Research Direction | Spatial evidence for environmental performance
+
+<div class="vision-band"><span>Environmental sustainability</span><span>Urban health</span><span>Energy transition</span><span>Climate resilience</span></div>
+
+<div class="direction-layout">
+  <div class="direction-column past"><label>RESEARCHED SYSTEMS</label><div><b>Buildings and energy</b><span>BIPV renovation and rooftop solar deployment</span></div><div><b>Urban health infrastructure</b><span>Emergency accessibility, operations and survival</span></div></div>
+  <div class="direction-arrow"><span>MEASURE</span><span>EXPLAIN</span><span>EVALUATE</span></div>
+  <div class="direction-column future"><label>PHD RESEARCH OBJECT</label><div class="future-focus"><b>Urban humid-heat recovery</b><span>Regional atmosphere · local urban conditions · building thermal protection</span></div><div class="future-question"><b>Research purpose</b><span>Produce evidence that connects recovery processes with model sufficiency and built-environment decisions.</span></div></div>
+</div>
+
+<div class="direction-footer"><div class="direction-statement">My research connects physical and technical conditions with observed performance, explanations and practical decisions.</div><button class="structure-drawer-toggle" type="button">VIEW STRUCTURE</button></div>
+<div class="structure-drawer" aria-hidden="true">
+  <div class="structure-drawer-head"><b>Research Interest · Evolution from design intuition to environmental decision research</b><button class="structure-drawer-close" type="button">CLOSE</button></div>
+  <pre class="research-interest-map">      [ S C O P E ]                             [ M E T H O D O L O G Y ]                   [ P H I L O S O P H Y ]
+         ┌──────────────────────────────────────────────────┼──────────────────────────────────────────────────┐
+Environmental Sustainability                        Decision Automation                                 Synthesis
+         └──────────────────────────────────────────────────┼──────────────────────────────────────────────────┘
+                                                            ▲
+                                                            │
+                    ┌───────────────────────────────────────┼───────────────────────────────────────┐
+             Urban Analysis                            Data driven                         Silicon-based life
+                    └───────────────────────────────────────┼───────────────────────────────────────┘
+                                                            ▲
+                                                            │
+                              ┌─────────────────────────────┼─────────────────────────────┐
+                       Architectural Design           Instinct driven               Carbon-based life
+                              └─────────────────────────────┼─────────────────────────────┘
+                                                            ▲
+                                                            │
+                                                       THE ORIGIN</pre>
+</div>
+
+???
+These projects define my broader research direction. I am interested in environmental sustainability, urban health, energy transition and climate resilience as connected built-environment questions. Across buildings, infrastructure and cities, I measure spatial performance, examine the processes associated with recurring differences, and evaluate how the evidence can support a decision. The proposed PhD extends this direction to urban humid-heat recovery across the atmosphere, neighbourhoods and buildings.
+
+[Sources]
+Research direction synthesised from the applicant's completed projects, latest CV and verified PhD proposal.
+
+---
+name: motivation
+class: section-proposal
+
+## Research Motivation | Humid-heat recovery unfolds across connected scales
+
+<div class="proposal-id"><b>Urban Humid-Heat Persistence and Recovery in Singapore</b> · Mechanisms, Model Sufficiency and Functional Significance</div>
+
+<div class="motivation-layout">
+  <div class="proposal-figure large"><img class="zoomable svg-source" src="images/research_outputs/proposal/proposal_event_time_framework.svg" alt="Event-time framework for regional, local and building recovery"></div>
+  <div class="scale-stack"><div class="proposal-opening"><label>STARTING QUESTION</label><b>What happens after the regional weather appears to improve?</b></div><div class="scale-card regional"><b>Regional forcing</b><span>Defines the shared meteorological event and the onset of regional relaxation.</span></div><div class="scale-card local"><b>Local humid heat</b><span>Measures neighbourhood decay, sustained clearance, rebound and carry-over.</span></div><div class="scale-card building"><b>Building protection</b><span>Evaluates indoor thermal protection, lag and functional recovery.</span></div><div class="motivation-question prominent"><label>RESEARCH FOCUS</label>Which differences recur, which processes explain them, and what evidence is useful for building and operational decisions?</div></div>
+</div>
+
+<div class="concept-note">Conceptual event clock · timing relationships are categorical.</div>
+
+???
+The proposal begins with a simple question: What happens after the regional weather appears to improve? In Singapore, regional forcing may relax while some neighbourhoods remain warm and humid, and buildings may recover later. I place three transitions on one event clock: regional relaxation, local decline and sustained clearance, and building thermal-protection recovery. The figure defines comparable timings without pre-judging the result. Singapore is a strong test case because humidity, coastal circulation, dense morphology and managed cooling interact within one compact city.
+
+[Sources]
+Verified PhD proposal: Urban Humid-Heat Persistence and Recovery in Singapore: Mechanisms, Model Sufficiency and Functional Significance.
+Figure: original SVG, Figure 2 event-time framework, author-provided final submission package.
+
+---
+name: research-questions
+class: section-proposal
+
+## Research Questions
+
+<div class="rq-progression">
+  <div class="rq-card rq1"><div class="rq-label">RQ1 · MEASURE</div><b>Recurring spatial recovery</b><p>Which local recovery differences recur across events after accounting for event conditions?</p><span>Outcome: forcing-aware recovery measures and recurrent spatial patterns</span></div>
+  <div class="rq-link">→</div>
+  <div class="rq-card rq2"><div class="rq-label">RQ2 · EXPLAIN</div><b>Processes and model sufficiency</b><p>Which atmospheric and urban processes are consistent with recurrent differences, and when does WRF-Urban add evidence?</p><span>Outcome: targeted process tests and comparative model evidence</span></div>
+  <div class="rq-link">→</div>
+  <div class="rq-card rq3"><div class="rq-label">RQ3 · RELATE</div><b>Building thermal significance</b><p>When do outdoor recovery differences translate into lagged or decoupled building thermal protection, and what does this imply for building operation or heat-response timing?</p><span>Outcome: outdoor–building recovery relationships with operational meaning</span></div>
+</div>
+
+<div class="rq-foundation"><div><b>Common event clock</b><span>Comparable timing across regional, local and building scales</span></div><div><b>Independent observations</b><span>Outcome definition before targeted model experiments</span></div><div><b>Comparative evidence</b><span>Model complexity evaluated by the information it adds</span></div></div>
+
+???
+The research is organised through three questions. First, which local recovery differences recur across events after accounting for event conditions? Second, which atmospheric and urban processes are consistent with those recurring differences, and when does WRF-Urban add useful evidence? Third, when do outdoor recovery differences translate into lagged or decoupled building thermal protection? The sequence moves from measurement, to explanation, to functional significance, with independent observations defining the recovery outcomes.
+
+[Sources]
+Research questions and outcome definitions: author-provided verified PhD proposal.
+---
+name: research-design
+class: section-proposal
+
+## Research Design | Observations define recovery; models test explanations
+
+<div class="data-domain-rail"><span>Atmospheric observations</span><span>Urban surface &amp; form</span><span>WRF / WRF-Urban</span><span>Building performance</span><span>Forecast records</span></div>
+
+<div class="web-panelset design-panelset" data-default="logic">
+  <div class="web-tabs"><button class="web-tab" type="button" data-panel="logic">STUDY LOGIC</button><button class="web-tab" type="button" data-panel="data">DATA SOURCES</button><button class="web-tab" type="button" data-panel="evaluation">EVALUATION</button></div>
+  <div class="web-panels">
+    <div class="web-panel" data-panel="logic"><div class="design-logic-layout"><div class="proposal-figure"><img class="zoomable svg-source" src="images/research_outputs/proposal/proposal_research_framework.svg" alt="Research framework for humid-heat persistence and recovery"></div><div class="study-sequence"><div><b>1 · Define events</b><span>Establish forcing-aware event and recovery measures.</span></div><div><b>2 · Measure recurrence</b><span>Identify local differences that recur across events.</span></div><div><b>3 · Test explanations</b><span>Use observations and targeted model experiments.</span></div><div><b>4 · Evaluate significance</b><span>Relate outdoor recovery to buildings, forecasts and decisions.</span></div></div></div></div>
+    <div class="web-panel" data-panel="data"><table class="data-table"><thead><tr><th>Evidence domain</th><th>Proposed sources</th><th>Key variables</th><th>Analytical role</th><th>Acquisition route</th></tr></thead><tbody>
+      <tr><td><b>Atmospheric conditions</b></td><td>MSS / NEA observations; ERA5</td><td>Temperature, humidity, wind, radiation, rainfall</td><td>Event definition and forcing controls</td><td>Official archive or request; public reanalysis</td></tr>
+      <tr><td><b>Urban surface and form</b></td><td>Landsat, Sentinel, ECOSTRESS; OneMap, OSM, WUDAPT; 3D / LiDAR</td><td>Surface temperature, land cover, morphology, roughness, shading</td><td>Local context and urban representation</td><td>Public, derived and licensed sources</td></tr>
+      <tr><td><b>Atmospheric modelling</b></td><td>WRF and WRF-Urban inputs and urban parameters</td><td>Three-dimensional atmosphere; energy and moisture fluxes</td><td>Event reconstruction and targeted process experiments</td><td>Reproducible modelling workflow</td></tr>
+      <tr><td><b>Building performance</b></td><td>Indoor T / RH; BMS, HVAC, energy, occupancy and action records</td><td>Thermal protection, lag and functional recovery</td><td>Outdoor–building recovery analysis</td><td>Collaboration and relevant approvals</td></tr>
+      <tr><td><b>Forecast and decision records</b></td><td>Historical issue-time forecasts, warnings and action records</td><td>Lead time, thresholds and action changes</td><td>Forecast replay and decision relevance</td><td>Archive access and partner agreement</td></tr>
+    </tbody></table></div>
+    <div class="web-panel" data-panel="evaluation"><div class="evaluation-grid"><div><b>Weather skill</b><span>Bias, MAE / RMSE, extremes, onset, duration and recovery timing</span></div><div><b>Urban information skill</b><span>Place ranking, threshold timing, sustained clearance, rebound and uncertainty</span></div><div><b>Functional and decision relevance</b><span>Building protection, lead time, action timing and robustness</span></div></div><div class="model-comparison"><b>Task-matched model comparison</b><div class="model-chips"><span>Operational products</span><span>Data-driven localisation</span><span>WRF</span><span>WRF-Urban</span><span>Morphology-aware refinement</span></div><small>Common events · issue times · validation records · information tasks · cost accounting</small></div></div>
+  </div>
+</div>
+
+???
+The design begins with observations. Atmospheric data define events and recovery outcomes, urban surface and form data describe local context, and building records provide the functional interface where access and approvals permit. Targeted WRF and WRF-Urban experiments then test process explanations. Historical forecast records support a later replay analysis. The comparison evaluates weather skill, urban information skill, and functional or decision relevance. Each data source therefore has a specific analytical role, and partnership-dependent data are identified explicitly.
+
+[Sources]
+Research framework and planned data architecture: author-provided verified PhD proposal.
+Figure: original SVG, Figure 1 research framework, author-provided final submission package.
+Data access wording reflects proposed acquisition routes; collaboration-dependent records are presented as planned sources.
+---
+name: contributions
+class: section-proposal
+
+## Expected Contributions and Research Outputs
+
+<div class="contribution-head">
+  <div class="contribution-vision"><label>RESEARCH VISION</label><b>Move beyond peak heat to understand when neighbourhoods and buildings recover, why recovery differs, and when detailed modelling adds useful information.</b></div>
+  <button class="structure-drawer-toggle plan-drawer-toggle" type="button">VIEW FULL FOUR-YEAR PLAN</button>
+</div>
+
+<div class="four-year-programme" aria-label="Four-year contribution and output pathway">
+  <div class="year-card y1"><div class="year-top"><span>YEAR 1 · DEFINE</span><b>Define and measure recovery</b></div><div class="year-row"><label>RESEARCH FOCUS</label><p>Establish comparable timings for regional improvement, local decline and sustained clearance.</p></div><div class="year-row output"><label>OUTPUTS</label><p>Event protocol · pilot trajectories · reproducible data structure · Paper 1 framework</p></div><div class="year-contribution"><label>CONTRIBUTION</label><p>A consistent basis for comparing recovery across events and places.</p></div></div>
+  <div class="year-card y2"><div class="year-top"><span>YEAR 2 · IDENTIFY</span><b>Identify recurring spatial differences</b></div><div class="year-row"><label>RESEARCH FOCUS</label><p>Use multiple events to distinguish recurring neighbourhood patterns from event-specific variation.</p></div><div class="year-row output"><label>OUTPUTS</label><p>Multi-event analysis · recovery maps · Papers 1–2 · frozen WRF configuration</p></div><div class="year-contribution"><label>CONTRIBUTION</label><p>Evidence on which recovery differences persist across events.</p></div></div>
+  <div class="year-card y3"><div class="year-top"><span>YEAR 3 · EXPLAIN</span><b>Explain processes and compare models</b></div><div class="year-row"><label>RESEARCH FOCUS</label><p>Test atmospheric clearance, local heat–moisture memory and urban form using matched models.</p></div><div class="year-row output"><label>OUTPUTS</label><p>Process experiments · fair model comparison · building trajectories · Paper 3</p></div><div class="year-contribution"><label>CONTRIBUTION</label><p>Evidence on why recovery differs and when detailed modelling is useful.</p></div></div>
+  <div class="year-card y4"><div class="year-top"><span>YEAR 4 · APPLY</span><b>Connect recovery to buildings and decisions</b></div><div class="year-row"><label>RESEARCH FOCUS</label><p>Relate outdoor recovery to thermal protection and test historical forecast information where archives permit.</p></div><div class="year-row output"><label>OUTPUTS</label><p>Outdoor–building study · retrospective forecast test · Paper 4 · thesis · archive · practitioner brief</p></div><div class="year-contribution"><label>CONTRIBUTION</label><p>Evidence for protection and operational timing in warm-humid cities.</p></div></div>
+</div>
+
+<div class="programme-footer"><div><label>RESEARCH PRODUCTS</label><span>Four linked studies · reproducible data and methods · practitioner brief</span></div><div><label>WIDER RELEVANCE</label><span>Thermal protection · climate-resilient neighbourhoods · SDG 3 · SDG 11 · SDG 13</span></div></div>
+
+<div class="structure-drawer plan-drawer" aria-hidden="true">
+  <div class="structure-drawer-head"><b>Verified proposal · Section 7 Research Schedule</b><button class="structure-drawer-close" type="button">CLOSE</button></div>
+  <table class="plan-table"><thead><tr><th>YEAR</th><th>RESEARCH FOCUS</th><th>MAIN ACTIVITIES</th><th>RISKS / DECISION POINTS</th><th>OUTPUTS</th></tr></thead><tbody>
+    <tr><td><b>1</b></td><td>Event definition · data architecture · pilot analysis</td><td>Complete evidence synthesis and data integration; establish the event catalogue and recovery protocol; audit observation and spatial supports; begin building-data ingestion or pilot monitoring; design WRF domains and evaluation.</td><td>Independent identification of regional relaxation; phase identifiability; cross-source scale alignment.</td><td>Event protocol · pilot trajectories · reproducible data architecture · Paper 1 framework and pilot analysis.</td></tr>
+    <tr><td><b>2</b></td><td>Cross-event inference · conditional spatial account · hindcast</td><td>Extend multi-event environmental and building observations; estimate recurrent spatial differences and weather-regime interactions; continue monitoring; evaluate and freeze the principal WRF configuration.</td><td>Event imbalance; spatial-support sensitivity; incomplete process observations; structural model uncertainty.</td><td>Paper 1 submission · Paper 2 on recurring spatial recovery and weather-regime dependence · frozen WRF configuration.</td></tr>
+    <tr><td><b>3</b></td><td>Mechanism attribution · model comparison · functional trajectories</td><td>Conduct observation-supported process experiments and L0–L3 comparison; analyse external clearance and local memory; construct building thermal-protection trajectories and outdoor–building relationships.</td><td>Mechanism equifinality; computational burden; building and operational heterogeneity.</td><td>Paper 3 on observation-constrained mechanisms and WRF-Urban sufficiency · functional dataset · interim findings.</td></tr>
+    <tr><td><b>4</b></td><td>Forecast replay · functional significance · synthesis</td><td>Conduct issue-time replay where archives permit; evaluate protection judgements; integrate supported energy, health, action and distributional implications; complete synthesis and archiving.</td><td>Data leakage; claim–evidence alignment; cross-chapter integration.</td><td>Paper 4 on environmental–functional lag and recovery-informed judgements · thesis · reproducible archive · practitioner brief.</td></tr>
+  </tbody></table>
+  <div class="plan-note">Building and forecast-data preparation begin in parallel during Year 1. A larger observational event set is paired with a smaller process-rich modelling set.</div>
+</div>
+
+???
+Over four years, the project moves from defining recovery to explaining it and testing why it matters. Year One establishes a clear event protocol and pilot trajectories. Year Two uses multiple events to identify which neighbourhood differences recur after weather conditions are considered. Year Three tests the atmospheric and urban processes behind those patterns and compares WRF-Urban with simpler methods. Year Four examines how outdoor recovery relates to building thermal protection and, where suitable archives exist, whether earlier information could improve protection timing. Together, these stages produce four linked studies, a reproducible dataset and method, documented code, a thesis and a practitioner brief. The broader aim is to move urban heat assessment beyond peak maps towards evidence of when neighbourhoods and buildings have actually recovered.
+
+[Sources]
+Expected contributions and the complete four-year schedule: author-provided verified PhD proposal, Sections 6–7.
+UN Sustainable Development Goals 3, 11 and 13: https://sdgs.un.org/goals
+
+---
+name: future
+class: section-future
+
+## Future Plans
+<div class="slide-subtitle future-subtitle">An academic programme connecting urban climate, buildings and practical decisions</div>
+
+<div class="future-layout">
+  <div class="future-panel"><div class="future-kicker">WHY PHD</div><b>Research for sustainable urban futures</b><ul><li><strong>Research drive:</strong> turn consequential urban questions into defensible evidence and practical insight.</li><li><strong>Public significance:</strong> climate, energy and health pressures require cities and buildings that support resilience and human well-being.</li><li><strong>Research need:</strong> strengthen evidence-based environmental design through spatial data, computation and physical modelling.</li></ul></div>
+  <div class="future-panel nus"><div class="future-kicker">WHY NUS ARCHITECTURE</div><b>Project, institution, supervisor and place</b><ul><li><strong>Singapore:</strong> humid tropical weather, coastal processes, dense urban form and managed cooling in one bounded setting.</li><li><strong>NUS / CDE:</strong> interdisciplinary research infrastructure and a scholarship framework for sustained doctoral work.</li><li><strong>Supervision:</strong> <a href="https://cde.nus.edu.sg/arch/staffs/qi-jinda/" target="_blank">Dr Jinda Qi ↗</a> connects urban heat, computational design and AI-driven built-environment design.</li><li><strong>Research environment:</strong> a safe, stable and internationally connected base in Asia.</li></ul></div>
+  <div class="future-panel long-term"><div class="future-kicker">POST-PHD</div><b>An academic career connecting the built environment, urban climate and human well-being</b><ul><li><strong>Research:</strong> pursue postdoctoral work and develop an independent academic programme.</li><li><strong>Teaching:</strong> guide future researchers across design, spatial computation and environmental science.</li><li><strong>Translation:</strong> move research findings into practical decisions and real-world applications.</li></ul></div>
+</div>
+
+<div class="final-close"><span>Thank you for your time and consideration.</span><span class="final-id">Jiaying Li · R656527237</span></div>
+
+???
+I want to pursue a PhD for both personal and public reasons. I enjoy turning important urban questions into defensible evidence. Cities and buildings now face connected climate, energy and health pressures, and sustainable futures require a stronger evidence base linking spatial data, computation and environmental processes. NUS is an especially strong fit: Singapore combines humid tropical weather, coastal processes, dense urban form and managed cooling; NUS and CDE offer an interdisciplinary research environment and doctoral support; and Dr Jinda Qi's work connects urban heat, computational design and AI-driven built-environment design. Singapore's safety, stability and international connectivity also support sustained research. Post-PhD, I hope to build an academic career at the intersection of the built environment, urban climate and human well-being, translating research findings into practical decisions and real-world applications. Thank you for your time and consideration. I look forward to our discussion.
+
+[Sources]
+NUS Architecture PhD by Research overview: https://cde.nus.edu.sg/arch/programmes/maarchbyresearch-phdbyresearch/
+NUS CDE research admissions and scholarship framework: https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/admission-requirement-2/
+Dr Jinda Qi profile and AI-driven built-environment research: https://cde.nus.edu.sg/arch/staffs/qi-jinda/
+Long-term plans: applicant-authored statement.
